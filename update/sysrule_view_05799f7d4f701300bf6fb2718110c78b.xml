@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sysrule_view">
+    <sysrule_view action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>true</advanced>
+        <condition/>
+        <description/>
+        <device_type>browser</device_type>
+        <match_conditions>ALL</match_conditions>
+        <name>Interview Management View rule</name>
+        <order>100</order>
+        <overrides_user_preference>true</overrides_user_preference>
+        <script><![CDATA[(function overrideView(view, is_list) {
+
+	// Add your code here
+	if (gs.hasRole("x_149783_interview.manager")) {
+		gs.info("1");
+		answer = "Manager_view";  // set the new view to answer
+	}
+	else if (gs.hasRole("x_149783_interview.coordinator")) {
+		gs.info("2");
+		answer = "Coordinator_view";  // set the new view to answer
+	}
+	else if (gs.hasRole("x_149783_interview.technical_interviewer")) {
+		gs.info("3");
+		answer = "Technical_interviewer_view";  // set the new view to answer
+	}
+	else if (gs.hasRole("x_149783_interview.screener")) {
+		gs.info("4");
+		answer = "Screener_view";  // set the new view to answer
+	}
+	gs.info("view rule");
+	
+
+})(view, is_list);]]></script>
+        <sys_class_name>sysrule_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-13 07:31:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>05799f7d4f701300bf6fb2718110c78b</sys_id>
+        <sys_mod_count>20</sys_mod_count>
+        <sys_name>Interview Management View rule</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="InterviewManagement" source="x_149783_interview">3acc461c4f341300bf6fb2718110c742</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InterviewManagement">3acc461c4f341300bf6fb2718110c742</sys_scope>
+        <sys_update_name>sysrule_view_05799f7d4f701300bf6fb2718110c78b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-13 09:06:59</sys_updated_on>
+        <table>x_149783_interview_interview_management</table>
+        <view/>
+    </sysrule_view>
+</record_update>

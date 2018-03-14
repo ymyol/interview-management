@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Interviews</name>
+        <order/>
+        <roles>x_149783_interview.coordinator,x_149783_interview.manager,x_149783_interview.screener,x_149783_interview.technical_interviewer</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-08 10:45:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f6c55a504f741300bf6fb2718110c74b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Interviews</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="InterviewManagement" source="x_149783_interview">3acc461c4f341300bf6fb2718110c742</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InterviewManagement">3acc461c4f341300bf6fb2718110c742</sys_scope>
+        <sys_update_name>sys_ui_application_f6c55a504f741300bf6fb2718110c74b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-13 08:25:07</sys_updated_on>
+    </sys_ui_application>
+</record_update>

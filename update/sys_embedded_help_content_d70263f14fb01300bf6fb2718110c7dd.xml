@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[    <h1 class="title topictitle1">Roles</h1>    <div class="body conbody">    <p class="p">Roles control access to features and capabilities in applications and modules. After access      has been granted to a role, all of the groups or users assigned to the role are granted the      access. Roles can contain other roles, and any access granted to a role is granted to any role      that contains it.</p>  </div>]]></content>
+        <last_sync>2018-03-13 08:09:06</last_sync>
+        <modifier>normal</modifier>
+        <name>sys_user_role_list-normal</name>
+        <page>sys_user_role_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-03-13 08:09:06</sys_created_on>
+        <sys_id>d70263f14fb01300bf6fb2718110c7dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_user_role_list-normal</sys_name>
+        <sys_package display_value="InterviewManagement" source="x_149783_interview">3acc461c4f341300bf6fb2718110c742</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InterviewManagement">3acc461c4f341300bf6fb2718110c742</sys_scope>
+        <sys_update_name>sys_embedded_help_content_d70263f14fb01300bf6fb2718110c7dd</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-03-13 08:09:06</sys_updated_on>
+        <version>j</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=d70263f14fb01300bf6fb2718110c7dd"/>
+</record_update>

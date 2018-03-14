@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Interview Management" max_length="40" name="x_149783_interview_interview_management" type="collection">
+        <element label="Birthday" max_length="40" name="birthday" type="glide_date"/>
+        <element label="Description" max_length="4000" name="description" type="string"/>
+        <element choice="1" label="Final Result" max_length="18" name="final_result" read_only="true" type="string">
+            <choice>
+                <element label="Passed" sequence="0" value="Passed"/>
+                <element label="Rejected" sequence="1" value="Rejected"/>
+            </choice>
+        </element>
+        <element label="First Technical Interviewer" max_length="32" name="first_technical_interviewer" reference="sys_user" reference_qual="roles=x_149783_interview.technical_interviewer^EQ" reference_qual_condition="roles=x_149783_interview.technical_interviewer^EQ" type="reference"/>
+        <element label="First Technical Interview Comments" max_length="4000" name="first_technical_interview_comments" type="string"/>
+        <element label="First Technical Interview Date" max_length="40" name="first_technical_interview_date" read_only="true" type="glide_date_time"/>
+        <element choice="1" label="First Technical Interview Result" max_length="18" name="first_technical_interview_result" type="string">
+            <choice>
+                <element label="Not sure" sequence="0" value="Not sure"/>
+                <element label="Passed" sequence="1" value="Passed"/>
+                <element label="Rejected" sequence="2" value="Rejected"/>
+            </choice>
+        </element>
+        <element choice="1" default="Unknown" label="Gender" max_length="18" name="gender" type="string">
+            <choice>
+                <element label="Unknown" sequence="0" value="Unknown"/>
+                <element label="Male" sequence="1" value="Male"/>
+                <element label="Female" sequence="2" value="Female"/>
+            </choice>
+        </element>
+        <element label="Manager" max_length="32" name="manager" reference="sys_user" reference_qual="roles=x_149783_interview.manager^EQ" reference_qual_condition="roles=x_149783_interview.manager^EQ" type="reference"/>
+        <element label="Manager Interview Comments" max_length="4000" name="manager_interview_comments" type="string"/>
+        <element label="Manager Interview Date" max_length="40" name="manager_interview_date" read_only="true" type="glide_date"/>
+        <element choice="1" label="Manager Interview Result" max_length="18" name="manager_interview_result" type="string">
+            <choice>
+                <element label="Not sure" sequence="0" value="Not sure"/>
+                <element label="Passed" sequence="1" value="Passed"/>
+                <element label="Rejected" sequence="2" value="Rejected"/>
+            </choice>
+        </element>
+        <element label="Name" max_length="38" name="name" type="string"/>
+        <element default="javascript:getNextObjNumber();" display="true" dynamic_default_value="8acb83a85f220100a9ad2572f2b47741" label="Number" max_length="40" name="number" read_only="true" type="string" use_dynamic_default="true"/>
+        <element label="Screener" max_length="32" name="screener" reference="sys_user" reference_qual="roles=x_149783_interview.screener^EQ" reference_qual_condition="roles=x_149783_interview.screener^EQ" type="reference"/>
+        <element label="Screen Comments" max_length="4000" name="screen_comments" type="string"/>
+        <element label="Screen Date" max_length="40" name="screen_date" read_only="true" type="glide_date_time"/>
+        <element choice="1" label="Screen Result" max_length="18" name="screen_result" type="string">
+            <choice>
+                <element label="Not sure" sequence="0" value="Not sure"/>
+                <element label="Passed" sequence="1" value="Passed"/>
+                <element label="Rejected" sequence="2" value="Rejected"/>
+            </choice>
+        </element>
+        <element label="Second Technical Interviewer" max_length="32" name="second_technical_interviewer" reference="sys_user" reference_qual="roles=x_149783_interview.technical_interviewer^EQ" reference_qual_condition="roles=x_149783_interview.technical_interviewer^EQ" type="reference"/>
+        <element label="Second Technical Interview Comments" max_length="4000" name="second_technical_interview_comments" type="string"/>
+        <element label="Second Technical Interview Date" max_length="40" name="second_technical_interview_date" read_only="true" type="glide_date_time"/>
+        <element choice="1" label="Second Technical Interview Result" max_length="18" name="second_technical_interview_result" type="string">
+            <choice>
+                <element label="Not sure" sequence="0" value="Not sure"/>
+                <element label="Passed" sequence="1" value="Passed"/>
+                <element label="Rejected" sequence="2" value="Rejected"/>
+            </choice>
+        </element>
+        <element choice="1" default="Wait for phone screen" label="State" max_length="18" name="state" read_only="true" type="string">
+            <choice>
+                <element label="Wait for phone screen" sequence="0" value="Wait for phone screen"/>
+                <element label="Phone screen in progress" sequence="1" value="Phone screen in progress"/>
+                <element label="Phone screen completed" sequence="2" value="Phone screen completed"/>
+                <element label="Technical interview in progress" sequence="3" value="Technical interview in progress"/>
+                <element label="Technical interview completed" sequence="4" value="Technical interview completed"/>
+                <element label="Manager interview in progress" sequence="5" value="Manager interview in progress"/>
+                <element label="Completed" sequence="6" value="Completed"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="second_technical_interviewer"/>
+        </index>
+        <index name="index2">
+            <element name="manager"/>
+        </index>
+        <index name="index3">
+            <element name="first_technical_interviewer"/>
+        </index>
+        <index name="index4">
+            <element name="screener"/>
+        </index>
+    </element>
+</database>

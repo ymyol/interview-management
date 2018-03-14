@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="manager_interview_result" table="x_149783_interview_interview_management" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>manager_interview_result</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not sure</label>
+            <language>en</language>
+            <name>x_149783_interview_interview_management</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-08 10:52:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>42979a904f741300bf6fb2718110c71d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-08 10:52:54</sys_updated_on>
+            <value>Not sure</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>manager_interview_result</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Passed</label>
+            <language>en</language>
+            <name>x_149783_interview_interview_management</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-08 10:52:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82979a904f741300bf6fb2718110c71e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-08 10:52:54</sys_updated_on>
+            <value>Passed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>manager_interview_result</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rejected</label>
+            <language>en</language>
+            <name>x_149783_interview_interview_management</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-08 10:52:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>02979a904f741300bf6fb2718110c71f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-08 10:52:54</sys_updated_on>
+            <value>Rejected</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>manager_interview_result</element>
+            <name>x_149783_interview_interview_management</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-08 10:52:54</sys_created_on>
+            <sys_id>4e979a904f741300bf6fb2718110c71d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>manager_interview_result</sys_name>
+            <sys_package display_value="InterviewManagement" source="x_149783_interview">3acc461c4f341300bf6fb2718110c742</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="InterviewManagement">3acc461c4f341300bf6fb2718110c742</sys_scope>
+            <sys_update_name>sys_choice_x_149783_interview_interview_management_manager_interview_result</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-08 10:52:54</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

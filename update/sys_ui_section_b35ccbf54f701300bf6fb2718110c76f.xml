@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Phone Screen" section_id="b35ccbf54f701300bf6fb2718110c76f" sys_domain="global" table="x_149783_interview_interview_management" version="3" view="Coordinator_view">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 10:47:22</sys_created_on>
+            <sys_id>6bdfc99a4ff01300bf6fb2718110c7a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 10:47:22</sys_updated_on>
+            <text>Interview process will not continue until you fill both result and comments.</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>screener</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 10:47:22</sys_created_on>
+            <sys_id>2fdfc99a4ff01300bf6fb2718110c7a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Phone Screen" display_value="Phone Screen" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">b35ccbf54f701300bf6fb2718110c76f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 10:47:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>screen_date</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 10:47:22</sys_created_on>
+            <sys_id>afdfc99a4ff01300bf6fb2718110c7a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Phone Screen" display_value="Phone Screen" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">b35ccbf54f701300bf6fb2718110c76f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 10:47:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>6bdfc99a4ff01300bf6fb2718110c7a5</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 10:47:22</sys_created_on>
+            <sys_id>23dfc99a4ff01300bf6fb2718110c7a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Phone Screen" display_value="Phone Screen" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">b35ccbf54f701300bf6fb2718110c76f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 10:47:22</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>screen_result</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 10:47:22</sys_created_on>
+            <sys_id>a3dfc99a4ff01300bf6fb2718110c7a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Phone Screen" display_value="Phone Screen" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">b35ccbf54f701300bf6fb2718110c76f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 10:47:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>screen_comments</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 10:47:22</sys_created_on>
+            <sys_id>27dfc99a4ff01300bf6fb2718110c7a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Phone Screen" display_value="Phone Screen" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">b35ccbf54f701300bf6fb2718110c76f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 10:47:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Phone Screen</caption>
+            <header>false</header>
+            <name>x_149783_interview_interview_management</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-13 06:34:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b35ccbf54f701300bf6fb2718110c76f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Phone Screen</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="InterviewManagement" source="x_149783_interview">3acc461c4f341300bf6fb2718110c742</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="InterviewManagement">3acc461c4f341300bf6fb2718110c742</sys_scope>
+            <sys_update_name>sys_ui_section_b35ccbf54f701300bf6fb2718110c76f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-13 06:34:22</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Coordinator view" name="Coordinator_view">bb5ccbf54f701300bf6fb2718110c76a</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

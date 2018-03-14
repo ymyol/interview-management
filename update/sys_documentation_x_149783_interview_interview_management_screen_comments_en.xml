@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="screen_comments" label="Screen Comments" language="en" table="x_149783_interview_interview_management">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>screen_comments</element>
+            <help/>
+            <hint/>
+            <label>Screen Comments</label>
+            <language>en</language>
+            <name>x_149783_interview_interview_management</name>
+            <plural>Screen Comments</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-08 10:45:02</sys_created_on>
+            <sys_id>72c55a504f741300bf6fb2718110c7a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Screen Comments</sys_name>
+            <sys_package display_value="InterviewManagement" source="x_149783_interview">3acc461c4f341300bf6fb2718110c742</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="InterviewManagement">3acc461c4f341300bf6fb2718110c742</sys_scope>
+            <sys_update_name>sys_documentation_x_149783_interview_interview_management_screen_comments_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-08 10:45:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

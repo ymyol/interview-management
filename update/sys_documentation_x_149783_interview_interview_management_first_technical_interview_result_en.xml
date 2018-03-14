@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="first_technical_interview_result" label="First Technical Interview Result" language="en" table="x_149783_interview_interview_management">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>first_technical_interview_result</element>
+            <help/>
+            <hint/>
+            <label>First Technical Interview Result</label>
+            <language>en</language>
+            <name>x_149783_interview_interview_management</name>
+            <plural>First Technical Interview Results</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-08 10:45:02</sys_created_on>
+            <sys_id>bec55a504f741300bf6fb2718110c78b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>First Technical Interview Result</sys_name>
+            <sys_package display_value="InterviewManagement" source="x_149783_interview">3acc461c4f341300bf6fb2718110c742</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="InterviewManagement">3acc461c4f341300bf6fb2718110c742</sys_scope>
+            <sys_update_name>sys_documentation_x_149783_interview_interview_management_first_technical_interview_result_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-08 10:45:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

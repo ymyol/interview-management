@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="775ccbf54f701300bf6fb2718110c76e" sys_domain="global" table="x_149783_interview_interview_management" version="3" view="Coordinator_view">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-13 07:21:33</sys_created_on>
+            <sys_id>0b279b7d4f701300bf6fb2718110c78d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">775ccbf54f701300bf6fb2718110c76e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-13 07:21:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-13 07:21:33</sys_created_on>
+            <sys_id>8b279b7d4f701300bf6fb2718110c78d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">775ccbf54f701300bf6fb2718110c76e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-13 07:21:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>gender</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-13 07:21:33</sys_created_on>
+            <sys_id>0f279b7d4f701300bf6fb2718110c78d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">775ccbf54f701300bf6fb2718110c76e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-13 07:21:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>birthday</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-13 07:21:33</sys_created_on>
+            <sys_id>8f279b7d4f701300bf6fb2718110c78d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">775ccbf54f701300bf6fb2718110c76e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-13 07:21:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-13 07:21:33</sys_created_on>
+            <sys_id>03279b7d4f701300bf6fb2718110c78e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">775ccbf54f701300bf6fb2718110c76e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-13 07:21:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-13 07:21:33</sys_created_on>
+            <sys_id>83279b7d4f701300bf6fb2718110c78e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">775ccbf54f701300bf6fb2718110c76e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-13 07:21:33</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-13 07:21:33</sys_created_on>
+            <sys_id>07279b7d4f701300bf6fb2718110c78e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">775ccbf54f701300bf6fb2718110c76e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-13 07:21:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>final_result</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-13 07:21:33</sys_created_on>
+            <sys_id>87279b7d4f701300bf6fb2718110c78e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">775ccbf54f701300bf6fb2718110c76e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-13 07:21:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>resume</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-13 07:21:33</sys_created_on>
+            <sys_id>0b279b7d4f701300bf6fb2718110c78e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">775ccbf54f701300bf6fb2718110c76e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-13 07:21:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_149783_interview_interview_management</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-13 06:34:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>775ccbf54f701300bf6fb2718110c76e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_149783_interview_interview_management</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="InterviewManagement" source="x_149783_interview">3acc461c4f341300bf6fb2718110c742</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="InterviewManagement">3acc461c4f341300bf6fb2718110c742</sys_scope>
+            <sys_update_name>sys_ui_section_775ccbf54f701300bf6fb2718110c76e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-13 06:34:22</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Coordinator view" name="Coordinator_view">bb5ccbf54f701300bf6fb2718110c76a</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

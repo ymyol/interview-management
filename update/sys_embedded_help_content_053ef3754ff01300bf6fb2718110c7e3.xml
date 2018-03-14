@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[    <h1 class="title topictitle1">Email listeners</h1>            <div class="body taskbody"><p class="shortdesc">You can setup email listeners that process emails sent to ServiceNow from third party        monitoring tools. </p>        <div class="section prereq p">            <p class="p">Your ServiceNow instance can send email notifications for specific system events,                such as updates to incidents or change requests. To support notifications, the                default email configuration includes a POP3 mailbox on a ServiceNow email server and                a ServiceNowSMTP server to process outbound email messages.</p>            <p class="p">To test email notifications, enter a comma-separated list of email addresses in the                Send all email to this test email address (non-production testing) field.</p>        </div>        <div class="li step p">                <span class="ph cmd">To setup email listeners, click <span class="ph uicontrol">New</span>.</span>            </div>    </div>]]></content>
+        <last_sync>2018-03-13 10:12:05</last_sync>
+        <modifier>normal</modifier>
+        <name>sysevent_in_email_action_list-normal</name>
+        <page>sysevent_in_email_action_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-03-13 10:12:05</sys_created_on>
+        <sys_id>053ef3754ff01300bf6fb2718110c7e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sysevent_in_email_action_list-normal</sys_name>
+        <sys_package display_value="InterviewManagement" source="x_149783_interview">3acc461c4f341300bf6fb2718110c742</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InterviewManagement">3acc461c4f341300bf6fb2718110c742</sys_scope>
+        <sys_update_name>sys_embedded_help_content_053ef3754ff01300bf6fb2718110c7e3</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-03-13 10:12:05</sys_updated_on>
+        <version>j</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=053ef3754ff01300bf6fb2718110c7e3"/>
+</record_update>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_149783_interview.UsersWithRole</api_name>
+        <client_callable>true</client_callable>
+        <description>Get users with a specific role</description>
+        <name>UsersWithRole</name>
+        <script><![CDATA[var UsersWithRole = Class.create();
+UsersWithRole.prototype = {
+    initialize: function() {
+    },
+	getUsersWithRole: function(role) {
+		gs.info("ok");
+		if (role == "x_149783_interview.screener") {
+			gs.info("check if user to be listed has screener role");
+			return "first_name=im"; // just a testing, should do more
+		}
+		else {
+			return "name='xxx'"; // just a testing, should do more
+		}
+	},
+
+    type: 'UsersWithRole'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-14 08:49:31</sys_created_on>
+        <sys_id>71b4709a4fb01300bf6fb2718110c752</sys_id>
+        <sys_mod_count>20</sys_mod_count>
+        <sys_name>UsersWithRole</sys_name>
+        <sys_package display_value="InterviewManagement" source="x_149783_interview">3acc461c4f341300bf6fb2718110c742</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="InterviewManagement">3acc461c4f341300bf6fb2718110c742</sys_scope>
+        <sys_update_name>sys_script_include_71b4709a4fb01300bf6fb2718110c752</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-14 09:32:25</sys_updated_on>
+    </sys_script_include>
+</record_update>
