@@ -2,7 +2,7 @@
 <record_update table="wf_workflow_version">
     <wf_workflow_version action="INSERT_OR_UPDATE">
         <active>true</active>
-        <activity_stages>{"ends":["cb9a8dd64ff01300bf6fb2718110c70b"],"activities":{},"subflows":[],"stages":{}}</activity_stages>
+        <activity_stages>{"ends":["99fe29a24f701300bf6fb2718110c79a"],"subflows":[],"stages":{},"activities":{}}</activity_stages>
         <after_business_rules>false</after_business_rules>
         <checked_out/>
         <checked_out_by/>
@@ -10,10 +10,10 @@
         <condition/>
         <condition_type>run_match</condition_type>
         <description>Control the whole interview process.</description>
-        <expected_sequences>039a8dd64ff01300bf6fb2718110c70e,c79a8dd64ff01300bf6fb2718110c71c,0b9a8dd64ff01300bf6fb2718110c713,439a8dd64ff01300bf6fb2718110c718,c79a8dd64ff01300bf6fb2718110c71d,4f9a8dd64ff01300bf6fb2718110c719,c39a8dd64ff01300bf6fb2718110c70c,8b9a8dd64ff01300bf6fb2718110c71b,0b9a8dd64ff01300bf6fb2718110c712,cb9a8dd64ff01300bf6fb2718110c70b,479a8dd64ff01300bf6fb2718110c716,039a8dd64ff01300bf6fb2718110c70d,479a8dd64ff01300bf6fb2718110c715,8b9a8dd64ff01300bf6fb2718110c70e,479a8dd64ff01300bf6fb2718110c714,0f9a8dd64ff01300bf6fb2718110c710,4f9a45d64ff01300bf6fb2718110c7f9,c79a8dd64ff01300bf6fb2718110c70f,4f9a8dd64ff01300bf6fb2718110c71a</expected_sequences>
+        <expected_sequences>49fe29a24f701300bf6fb2718110c70b,1dfe29a24f701300bf6fb2718110c798,d5fe29a24f701300bf6fb2718110c70d,99fe29a24f701300bf6fb2718110c710,d1fe29a24f701300bf6fb2718110c793,d9fe29a24f701300bf6fb2718110c799,99fe29a24f701300bf6fb2718110c795,95fe29a24f701300bf6fb2718110c796,99fe29a24f701300bf6fb2718110c79a,09fe29a24f701300bf6fb2718110c70c,59fe29a24f701300bf6fb2718110c790,c5fe29a24f701300bf6fb2718110c709,99fe29a24f701300bf6fb2718110c78f,9dfe29a24f701300bf6fb2718110c794,d9fe29a24f701300bf6fb2718110c78e,59fe29a24f701300bf6fb2718110c70e,15fe29a24f701300bf6fb2718110c792,91fe29a24f701300bf6fb2718110c797,91fe29a24f701300bf6fb2718110c794</expected_sequences>
         <expected_time>1970-01-01 14:00:00</expected_time>
         <expected_time_type/>
-        <full_sequences>039a8dd64ff01300bf6fb2718110c70e,c79a8dd64ff01300bf6fb2718110c71c,0b9a8dd64ff01300bf6fb2718110c713,439a8dd64ff01300bf6fb2718110c718,c79a8dd64ff01300bf6fb2718110c71d,4f9a8dd64ff01300bf6fb2718110c719,c39a8dd64ff01300bf6fb2718110c70c,8b9a8dd64ff01300bf6fb2718110c71b,0b9a8dd64ff01300bf6fb2718110c712,cb9a8dd64ff01300bf6fb2718110c70b,479a8dd64ff01300bf6fb2718110c716,039a8dd64ff01300bf6fb2718110c70d,479a8dd64ff01300bf6fb2718110c715,8b9a8dd64ff01300bf6fb2718110c70e,479a8dd64ff01300bf6fb2718110c714,0f9a8dd64ff01300bf6fb2718110c710,4f9a45d64ff01300bf6fb2718110c7f9,c79a8dd64ff01300bf6fb2718110c70f,4f9a8dd64ff01300bf6fb2718110c71a</full_sequences>
+        <full_sequences>49fe29a24f701300bf6fb2718110c70b,1dfe29a24f701300bf6fb2718110c798,d5fe29a24f701300bf6fb2718110c70d,99fe29a24f701300bf6fb2718110c710,d1fe29a24f701300bf6fb2718110c793,d9fe29a24f701300bf6fb2718110c799,99fe29a24f701300bf6fb2718110c795,95fe29a24f701300bf6fb2718110c796,99fe29a24f701300bf6fb2718110c79a,09fe29a24f701300bf6fb2718110c70c,59fe29a24f701300bf6fb2718110c790,c5fe29a24f701300bf6fb2718110c709,99fe29a24f701300bf6fb2718110c78f,9dfe29a24f701300bf6fb2718110c794,d9fe29a24f701300bf6fb2718110c78e,59fe29a24f701300bf6fb2718110c70e,15fe29a24f701300bf6fb2718110c792,91fe29a24f701300bf6fb2718110c797,91fe29a24f701300bf6fb2718110c794</full_sequences>
         <journal/>
         <max_activity_count>100</max_activity_count>
         <name>Interview Management</name>
@@ -28,13 +28,13 @@
         <schedule/>
         <stage_field/>
         <stage_order>computed</stage_order>
-        <start display_value="Begin">039a8dd64ff01300bf6fb2718110c70e</start>
+        <start display_value="Begin">49fe29a24f701300bf6fb2718110c70b</start>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>4b9a45d64ff01300bf6fb2718110c7f8</sys_id>
+        <sys_created_on>2018-03-15 07:41:40</sys_created_on>
+        <sys_id>85fe29a24f701300bf6fb2718110c707</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:32:38</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:46:23</sys_updated_on>
         <table>x_149783_interview_interview_management</table>
         <timezone/>
         <validated>true</validated>
@@ -80,49 +80,49 @@
         <pinned_version/>
         <stage/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>8b9a8dd64ff01300bf6fb2718110c71b</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>99fe29a24f701300bf6fb2718110c795</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width/>
-        <workflow_version display_value="Interview Management">4b9a45d64ff01300bf6fb2718110c7f8</workflow_version>
+        <workflow_version display_value="Interview Management">85fe29a24f701300bf6fb2718110c707</workflow_version>
         <x>993</x>
         <y>767</y>
     </wf_activity>
-    <sys_variable_value action="delete_multiple" query="document_key=8b9a8dd64ff01300bf6fb2718110c71b"/>
+    <sys_variable_value action="delete_multiple" query="document_key=99fe29a24f701300bf6fb2718110c795"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>8b9a8dd64ff01300bf6fb2718110c71b</document_key>
+        <document_key>99fe29a24f701300bf6fb2718110c795</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>0f9a8dd64ff01300bf6fb2718110c71b</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>1dfe29a24f701300bf6fb2718110c795</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>final_result=Rejected^state=Completed^EQ</value>
         <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>8b9a8dd64ff01300bf6fb2718110c71b</document_key>
+        <document_key>99fe29a24f701300bf6fb2718110c795</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>0f9a8dd64ff01300bf6fb2718110c71b</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>1dfe29a24f701300bf6fb2718110c795</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>final_result=Rejected^state=Completed^EQ</value>
         <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
-        <activity display_value="">8b9a8dd64ff01300bf6fb2718110c71b</activity>
+        <activity display_value="">99fe29a24f701300bf6fb2718110c795</activity>
         <condition>true</condition>
         <condition_default/>
         <condition_type>standard</condition_type>
@@ -136,11 +136,11 @@
         <short_description/>
         <skip_during_generate>false</skip_during_generate>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>439a8dd64ff01300bf6fb2718110c71c</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>11fe29a24f701300bf6fb2718110c796</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
         <activity_definition display_value="Begin">c7a5e32c0a0a0b3a002377c24ed8ea76</activity_definition>
@@ -158,21 +158,21 @@
         <pinned_version/>
         <stage/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>039a8dd64ff01300bf6fb2718110c70e</sys_id>
+        <sys_created_on>2018-03-15 07:41:40</sys_created_on>
+        <sys_id>49fe29a24f701300bf6fb2718110c70b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:40</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width>80</width>
-        <workflow_version display_value="Interview Management">4b9a45d64ff01300bf6fb2718110c7f8</workflow_version>
+        <workflow_version display_value="Interview Management">85fe29a24f701300bf6fb2718110c707</workflow_version>
         <x>20</x>
         <y>20</y>
     </wf_activity>
-    <sys_variable_value action="delete_multiple" query="document_key=039a8dd64ff01300bf6fb2718110c70e"/>
+    <sys_variable_value action="delete_multiple" query="document_key=49fe29a24f701300bf6fb2718110c70b"/>
     <wf_condition action="INSERT_OR_UPDATE">
-        <activity display_value="Begin">039a8dd64ff01300bf6fb2718110c70e</activity>
+        <activity display_value="Begin">49fe29a24f701300bf6fb2718110c70b</activity>
         <condition>true</condition>
         <condition_default/>
         <condition_type>standard</condition_type>
@@ -186,11 +186,11 @@
         <short_description/>
         <skip_during_generate>false</skip_during_generate>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>079a8dd64ff01300bf6fb2718110c70e</sys_id>
+        <sys_created_on>2018-03-15 07:41:40</sys_created_on>
+        <sys_id>81fe29a24f701300bf6fb2718110c70c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:40</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
         <activity_definition display_value="If">98f621ca0a0a0b5900f7c291f5e45a0e</activity_definition>
@@ -208,58 +208,44 @@
         <pinned_version/>
         <stage/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>c79a8dd64ff01300bf6fb2718110c70f</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>91fe29a24f701300bf6fb2718110c797</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width/>
-        <workflow_version display_value="Interview Management">4b9a45d64ff01300bf6fb2718110c7f8</workflow_version>
+        <workflow_version display_value="Interview Management">85fe29a24f701300bf6fb2718110c707</workflow_version>
         <x>779</x>
         <y>695</y>
     </wf_activity>
-    <sys_variable_value action="delete_multiple" query="document_key=c79a8dd64ff01300bf6fb2718110c70f"/>
+    <sys_variable_value action="delete_multiple" query="document_key=91fe29a24f701300bf6fb2718110c797"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>c79a8dd64ff01300bf6fb2718110c70f</document_key>
-        <order>200</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>0f9a8dd64ff01300bf6fb2718110c70f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <value>0</value>
-        <variable display_value="">493d2c1d0a6a803f3217a75738ea3289</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>wf_activity</document>
-        <document_key>c79a8dd64ff01300bf6fb2718110c70f</document_key>
+        <document_key>91fe29a24f701300bf6fb2718110c797</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>4b9a8dd64ff01300bf6fb2718110c70f</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>19fe29a24f701300bf6fb2718110c797</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>manager_interview_result=Passed^EQ</value>
         <variable display_value="">493cba6a0a6a803f07df24b118473551</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>c79a8dd64ff01300bf6fb2718110c70f</document_key>
+        <document_key>91fe29a24f701300bf6fb2718110c797</document_key>
         <order>300</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>cf9a8dd64ff01300bf6fb2718110c70f</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>9dfe29a24f701300bf6fb2718110c797</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>// This script needs to set answer to 'yes' or 'no' to indicate the state of the activity.&#13;
 //&#13;
 // For example,&#13;
@@ -277,43 +263,57 @@
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>c79a8dd64ff01300bf6fb2718110c70f</document_key>
-        <order>100</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>4b9a8dd64ff01300bf6fb2718110c70f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <value>manager_interview_result=Passed^EQ</value>
-        <variable display_value="">493cba6a0a6a803f07df24b118473551</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>wf_activity</document>
-        <document_key>c79a8dd64ff01300bf6fb2718110c70f</document_key>
+        <document_key>91fe29a24f701300bf6fb2718110c797</document_key>
         <order>200</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>0f9a8dd64ff01300bf6fb2718110c70f</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>d9fe29a24f701300bf6fb2718110c797</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>0</value>
         <variable display_value="">493d2c1d0a6a803f3217a75738ea3289</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>c79a8dd64ff01300bf6fb2718110c70f</document_key>
+        <document_key>91fe29a24f701300bf6fb2718110c797</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>19fe29a24f701300bf6fb2718110c797</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <value>manager_interview_result=Passed^EQ</value>
+        <variable display_value="">493cba6a0a6a803f07df24b118473551</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>91fe29a24f701300bf6fb2718110c797</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>d9fe29a24f701300bf6fb2718110c797</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <value>0</value>
+        <variable display_value="">493d2c1d0a6a803f3217a75738ea3289</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>91fe29a24f701300bf6fb2718110c797</document_key>
         <order>300</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>cf9a8dd64ff01300bf6fb2718110c70f</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>9dfe29a24f701300bf6fb2718110c797</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>// This script needs to set answer to 'yes' or 'no' to indicate the state of the activity.&#13;
 //&#13;
 // For example,&#13;
@@ -330,7 +330,7 @@
         <variable display_value="">c35e50810a0a0ba96248a709b450fc32</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
-        <activity display_value="check final result">c79a8dd64ff01300bf6fb2718110c70f</activity>
+        <activity display_value="check final result">91fe29a24f701300bf6fb2718110c797</activity>
         <condition>activity.result == 'no'</condition>
         <condition_default display_value="No">c1eff6430a0a0b59000f955abe842c94</condition_default>
         <condition_type>standard</condition_type>
@@ -344,14 +344,14 @@
         <short_description/>
         <skip_during_generate>true</skip_during_generate>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>079a8dd64ff01300bf6fb2718110c710</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>15fe29a24f701300bf6fb2718110c798</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
     </wf_condition>
     <wf_condition action="INSERT_OR_UPDATE">
-        <activity display_value="check final result">c79a8dd64ff01300bf6fb2718110c70f</activity>
+        <activity display_value="check final result">91fe29a24f701300bf6fb2718110c797</activity>
         <condition>activity.result == 'yes'</condition>
         <condition_default display_value="Yes">c1ef63200a0a0b59005ef89bae78feb7</condition_default>
         <condition_type>standard</condition_type>
@@ -365,11 +365,11 @@
         <short_description/>
         <skip_during_generate>false</skip_during_generate>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>879a8dd64ff01300bf6fb2718110c710</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>95fe29a24f701300bf6fb2718110c798</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
         <activity_definition display_value="End">c7a66f7d0a0a0b3a004544a6d2f14076</activity_definition>
@@ -387,19 +387,19 @@
         <pinned_version/>
         <stage/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>cb9a8dd64ff01300bf6fb2718110c70b</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>99fe29a24f701300bf6fb2718110c79a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width>80</width>
-        <workflow_version display_value="Interview Management">4b9a45d64ff01300bf6fb2718110c7f8</workflow_version>
+        <workflow_version display_value="Interview Management">85fe29a24f701300bf6fb2718110c707</workflow_version>
         <x>1257</x>
         <y>749</y>
     </wf_activity>
-    <sys_variable_value action="delete_multiple" query="document_key=cb9a8dd64ff01300bf6fb2718110c70b"/>
+    <sys_variable_value action="delete_multiple" query="document_key=99fe29a24f701300bf6fb2718110c79a"/>
     <wf_activity action="INSERT_OR_UPDATE">
         <activity_definition display_value="Notification">0a6c97790a0a0b2756919eb960284334</activity_definition>
         <activity_definition_updated>false</activity_definition_updated>
@@ -416,73 +416,87 @@
         <pinned_version/>
         <stage/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>0f9a8dd64ff01300bf6fb2718110c710</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>59fe29a24f701300bf6fb2718110c70e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:25:12</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width/>
-        <workflow_version display_value="Interview Management">4b9a45d64ff01300bf6fb2718110c7f8</workflow_version>
+        <workflow_version display_value="Interview Management">85fe29a24f701300bf6fb2718110c707</workflow_version>
         <x>689</x>
         <y>463</y>
     </wf_activity>
-    <sys_variable_value action="delete_multiple" query="document_key=0f9a8dd64ff01300bf6fb2718110c710"/>
+    <sys_variable_value action="delete_multiple" query="document_key=59fe29a24f701300bf6fb2718110c70e"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>0f9a8dd64ff01300bf6fb2718110c710</document_key>
+        <document_key>59fe29a24f701300bf6fb2718110c70e</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>19fe29a24f701300bf6fb2718110c70f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <value>Please start to do manager interview</value>
+        <variable display_value="">c35db2180a0a0ba96248a709d1b6df20</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>59fe29a24f701300bf6fb2718110c70e</document_key>
         <order>500</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>079a8dd64ff01300bf6fb2718110c711</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>55fe29a24f701300bf6fb2718110c70f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>// Set the variable 'answer' to a comma-separated list of user or group sys_ids that you want the email sent to.&#13;
 </value>
         <variable display_value="">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>0f9a8dd64ff01300bf6fb2718110c710</document_key>
+        <document_key>59fe29a24f701300bf6fb2718110c70e</document_key>
         <order>400</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>439a8dd64ff01300bf6fb2718110c711</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>91fe29a24f701300bf6fb2718110c70f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>0</value>
         <variable display_value="">6d6816cd0a6a803f0853a8df38007572</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>0f9a8dd64ff01300bf6fb2718110c710</document_key>
+        <document_key>59fe29a24f701300bf6fb2718110c70e</document_key>
         <order>150</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>4f9a8dd64ff01300bf6fb2718110c711</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>9dfe29a24f701300bf6fb2718110c70f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value/>
         <variable display_value="">ae2121c70a0a0b3459708c9a60cd7312</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>0f9a8dd64ff01300bf6fb2718110c710</document_key>
+        <document_key>59fe29a24f701300bf6fb2718110c70e</document_key>
         <order>300</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>8b9a8dd64ff01300bf6fb2718110c711</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>d9fe29a24f701300bf6fb2718110c70f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:25:12</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>Dear manager,&#13;
 &#13;
 Please start to do manager interview for the candidate:  ${name}, and update the result in interview management system: https://dev20825.service-now.com/&#13;
@@ -493,85 +507,71 @@ Interview Management TEAM</value>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>0f9a8dd64ff01300bf6fb2718110c710</document_key>
+        <document_key>59fe29a24f701300bf6fb2718110c70e</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>8f9a8dd64ff01300bf6fb2718110c710</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>ddfe29a24f701300bf6fb2718110c70e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>${manager}</value>
         <variable display_value="">c35daa890a0a0ba96248a709c32994d6</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>0f9a8dd64ff01300bf6fb2718110c710</document_key>
-        <order>200</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>c79a8dd64ff01300bf6fb2718110c711</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <value>Please start to do manager interview</value>
-        <variable display_value="">c35db2180a0a0ba96248a709d1b6df20</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>wf_activity</document>
-        <document_key>0f9a8dd64ff01300bf6fb2718110c710</document_key>
+        <document_key>59fe29a24f701300bf6fb2718110c70e</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>8f9a8dd64ff01300bf6fb2718110c710</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>ddfe29a24f701300bf6fb2718110c70e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>${manager}</value>
         <variable display_value="">c35daa890a0a0ba96248a709c32994d6</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>0f9a8dd64ff01300bf6fb2718110c710</document_key>
+        <document_key>59fe29a24f701300bf6fb2718110c70e</document_key>
         <order>150</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>4f9a8dd64ff01300bf6fb2718110c711</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>9dfe29a24f701300bf6fb2718110c70f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value/>
         <variable display_value="">ae2121c70a0a0b3459708c9a60cd7312</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>0f9a8dd64ff01300bf6fb2718110c710</document_key>
+        <document_key>59fe29a24f701300bf6fb2718110c70e</document_key>
         <order>200</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>c79a8dd64ff01300bf6fb2718110c711</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>19fe29a24f701300bf6fb2718110c70f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>Please start to do manager interview</value>
         <variable display_value="">c35db2180a0a0ba96248a709d1b6df20</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>0f9a8dd64ff01300bf6fb2718110c710</document_key>
+        <document_key>59fe29a24f701300bf6fb2718110c70e</document_key>
         <order>300</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>8b9a8dd64ff01300bf6fb2718110c711</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>d9fe29a24f701300bf6fb2718110c70f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:25:12</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>Dear manager,&#13;
 &#13;
 Please start to do manager interview for the candidate:  ${name}, and update the result in interview management system: https://dev20825.service-now.com/&#13;
@@ -582,35 +582,35 @@ Interview Management TEAM</value>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>0f9a8dd64ff01300bf6fb2718110c710</document_key>
+        <document_key>59fe29a24f701300bf6fb2718110c70e</document_key>
         <order>400</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>439a8dd64ff01300bf6fb2718110c711</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>91fe29a24f701300bf6fb2718110c70f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>0</value>
         <variable display_value="">6d6816cd0a6a803f0853a8df38007572</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>0f9a8dd64ff01300bf6fb2718110c710</document_key>
+        <document_key>59fe29a24f701300bf6fb2718110c70e</document_key>
         <order>500</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>079a8dd64ff01300bf6fb2718110c711</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>55fe29a24f701300bf6fb2718110c70f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>// Set the variable 'answer' to a comma-separated list of user or group sys_ids that you want the email sent to.&#13;
 </value>
         <variable display_value="">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
-        <activity display_value="Manager interview notification">0f9a8dd64ff01300bf6fb2718110c710</activity>
+        <activity display_value="Manager interview notification">59fe29a24f701300bf6fb2718110c70e</activity>
         <condition>true</condition>
         <condition_default/>
         <condition_type>standard</condition_type>
@@ -624,11 +624,11 @@ Interview Management TEAM</value>
         <short_description/>
         <skip_during_generate>false</skip_during_generate>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>839a8dd64ff01300bf6fb2718110c712</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>15fe29a24f701300bf6fb2718110c710</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
         <activity_definition display_value="Notification">0a6c97790a0a0b2756919eb960284334</activity_definition>
@@ -646,162 +646,162 @@ Interview Management TEAM</value>
         <pinned_version/>
         <stage/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>439a8dd64ff01300bf6fb2718110c718</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>99fe29a24f701300bf6fb2718110c710</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width/>
-        <workflow_version display_value="Interview Management">4b9a45d64ff01300bf6fb2718110c7f8</workflow_version>
+        <workflow_version display_value="Interview Management">85fe29a24f701300bf6fb2718110c707</workflow_version>
         <x>70</x>
         <y>321</y>
     </wf_activity>
-    <sys_variable_value action="delete_multiple" query="document_key=439a8dd64ff01300bf6fb2718110c718"/>
+    <sys_variable_value action="delete_multiple" query="document_key=99fe29a24f701300bf6fb2718110c710"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>439a8dd64ff01300bf6fb2718110c718</document_key>
+        <document_key>99fe29a24f701300bf6fb2718110c710</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>19fe29a24f701300bf6fb2718110c711</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <value>Dear ${screener.first_name}, ${screener.last_name}&#13;
+&#13;
+Please start to phone screen the candidate: ${name}, and update the result in interview management system: https://dev20825.service-now.com/&#13;
+&#13;
+Regards,&#13;
+Interview Management TEAM</value>
+        <variable display_value="">c35db5a50a0a0ba96248a70938ae8de6</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>99fe29a24f701300bf6fb2718110c710</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>1dfe29a24f701300bf6fb2718110c710</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <value>${screener}</value>
+        <variable display_value="">c35daa890a0a0ba96248a709c32994d6</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>99fe29a24f701300bf6fb2718110c710</document_key>
         <order>200</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>0f9a8dd64ff01300bf6fb2718110c718</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>55fe29a24f701300bf6fb2718110c711</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>Please start to screen this candidate</value>
         <variable display_value="">c35db2180a0a0ba96248a709d1b6df20</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>439a8dd64ff01300bf6fb2718110c718</document_key>
+        <document_key>99fe29a24f701300bf6fb2718110c710</document_key>
         <order>500</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>4b9a8dd64ff01300bf6fb2718110c718</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>91fe29a24f701300bf6fb2718110c711</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>// Set the variable 'answer' to a comma-separated list of user or group sys_ids that you want the email sent to.&#13;
 </value>
         <variable display_value="">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>439a8dd64ff01300bf6fb2718110c718</document_key>
+        <document_key>99fe29a24f701300bf6fb2718110c710</document_key>
         <order>150</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>839a8dd64ff01300bf6fb2718110c719</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>d9fe29a24f701300bf6fb2718110c711</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value/>
         <variable display_value="">ae2121c70a0a0b3459708c9a60cd7312</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>439a8dd64ff01300bf6fb2718110c718</document_key>
+        <document_key>99fe29a24f701300bf6fb2718110c710</document_key>
         <order>400</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>879a8dd64ff01300bf6fb2718110c718</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>ddfe29a24f701300bf6fb2718110c710</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>0</value>
         <variable display_value="">6d6816cd0a6a803f0853a8df38007572</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>439a8dd64ff01300bf6fb2718110c718</document_key>
+        <document_key>99fe29a24f701300bf6fb2718110c710</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>c39a8dd64ff01300bf6fb2718110c718</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>1dfe29a24f701300bf6fb2718110c710</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>${screener}</value>
         <variable display_value="">c35daa890a0a0ba96248a709c32994d6</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>439a8dd64ff01300bf6fb2718110c718</document_key>
-        <order>300</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>cf9a8dd64ff01300bf6fb2718110c718</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <value>Dear ${screener.first_name}, ${screener.last_name}&#13;
-&#13;
-Please start to phone screen the candidate: ${name}, and update the result in interview management system: https://dev20825.service-now.com/&#13;
-&#13;
-Regards,&#13;
-Interview Management TEAM</value>
-        <variable display_value="">c35db5a50a0a0ba96248a70938ae8de6</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>wf_activity</document>
-        <document_key>439a8dd64ff01300bf6fb2718110c718</document_key>
-        <order>100</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>c39a8dd64ff01300bf6fb2718110c718</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <value>${screener}</value>
-        <variable display_value="">c35daa890a0a0ba96248a709c32994d6</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>wf_activity</document>
-        <document_key>439a8dd64ff01300bf6fb2718110c718</document_key>
+        <document_key>99fe29a24f701300bf6fb2718110c710</document_key>
         <order>150</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>839a8dd64ff01300bf6fb2718110c719</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>d9fe29a24f701300bf6fb2718110c711</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value/>
         <variable display_value="">ae2121c70a0a0b3459708c9a60cd7312</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>439a8dd64ff01300bf6fb2718110c718</document_key>
+        <document_key>99fe29a24f701300bf6fb2718110c710</document_key>
         <order>200</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>0f9a8dd64ff01300bf6fb2718110c718</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>55fe29a24f701300bf6fb2718110c711</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>Please start to screen this candidate</value>
         <variable display_value="">c35db2180a0a0ba96248a709d1b6df20</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>439a8dd64ff01300bf6fb2718110c718</document_key>
+        <document_key>99fe29a24f701300bf6fb2718110c710</document_key>
         <order>300</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>cf9a8dd64ff01300bf6fb2718110c718</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>19fe29a24f701300bf6fb2718110c711</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>Dear ${screener.first_name}, ${screener.last_name}&#13;
 &#13;
 Please start to phone screen the candidate: ${name}, and update the result in interview management system: https://dev20825.service-now.com/&#13;
@@ -812,35 +812,35 @@ Interview Management TEAM</value>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>439a8dd64ff01300bf6fb2718110c718</document_key>
+        <document_key>99fe29a24f701300bf6fb2718110c710</document_key>
         <order>400</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>879a8dd64ff01300bf6fb2718110c718</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>ddfe29a24f701300bf6fb2718110c710</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>0</value>
         <variable display_value="">6d6816cd0a6a803f0853a8df38007572</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>439a8dd64ff01300bf6fb2718110c718</document_key>
+        <document_key>99fe29a24f701300bf6fb2718110c710</document_key>
         <order>500</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>4b9a8dd64ff01300bf6fb2718110c718</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>91fe29a24f701300bf6fb2718110c711</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>// Set the variable 'answer' to a comma-separated list of user or group sys_ids that you want the email sent to.&#13;
 </value>
         <variable display_value="">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
-        <activity display_value="Phone Screen Notification">439a8dd64ff01300bf6fb2718110c718</activity>
+        <activity display_value="Phone Screen Notification">99fe29a24f701300bf6fb2718110c710</activity>
         <condition>true</condition>
         <condition_default/>
         <condition_type>standard</condition_type>
@@ -854,11 +854,11 @@ Interview Management TEAM</value>
         <short_description/>
         <skip_during_generate>false</skip_during_generate>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>c79a8dd64ff01300bf6fb2718110c719</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>ddfe29a24f701300bf6fb2718110c711</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
         <activity_definition display_value="Wait for condition">d93a02ae0a0a0aa30077abad3fdac035</activity_definition>
@@ -876,44 +876,44 @@ Interview Management TEAM</value>
         <pinned_version/>
         <stage/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>4f9a8dd64ff01300bf6fb2718110c719</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>d1fe29a24f701300bf6fb2718110c793</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width/>
-        <workflow_version display_value="Interview Management">4b9a45d64ff01300bf6fb2718110c7f8</workflow_version>
+        <workflow_version display_value="Interview Management">85fe29a24f701300bf6fb2718110c707</workflow_version>
         <x>212</x>
         <y>734</y>
     </wf_activity>
-    <sys_variable_value action="delete_multiple" query="document_key=4f9a8dd64ff01300bf6fb2718110c719"/>
+    <sys_variable_value action="delete_multiple" query="document_key=d1fe29a24f701300bf6fb2718110c793"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>4f9a8dd64ff01300bf6fb2718110c719</document_key>
+        <document_key>d1fe29a24f701300bf6fb2718110c793</document_key>
         <order>1</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>839a8dd64ff01300bf6fb2718110c71a</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>19fe29a24f701300bf6fb2718110c793</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>screen_result=Rejected^screen_commentsISNOTEMPTY^EQ</value>
         <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>4f9a8dd64ff01300bf6fb2718110c719</document_key>
+        <document_key>d1fe29a24f701300bf6fb2718110c793</document_key>
         <order>2</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>cf9a8dd64ff01300bf6fb2718110c719</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>55fe29a24f701300bf6fb2718110c793</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
 answer = true;&#13;
 </value>
@@ -921,36 +921,36 @@ answer = true;&#13;
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>4f9a8dd64ff01300bf6fb2718110c719</document_key>
+        <document_key>d1fe29a24f701300bf6fb2718110c793</document_key>
         <order>1</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>839a8dd64ff01300bf6fb2718110c71a</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>19fe29a24f701300bf6fb2718110c793</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>screen_result=Rejected^screen_commentsISNOTEMPTY^EQ</value>
         <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>4f9a8dd64ff01300bf6fb2718110c719</document_key>
+        <document_key>d1fe29a24f701300bf6fb2718110c793</document_key>
         <order>2</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>cf9a8dd64ff01300bf6fb2718110c719</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>55fe29a24f701300bf6fb2718110c793</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
 answer = true;&#13;
 </value>
         <variable display_value="">c35debce0a0a0ba96248a709440cf31a</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
-        <activity display_value="Phone screen rejected">4f9a8dd64ff01300bf6fb2718110c719</activity>
+        <activity display_value="Phone screen rejected">d1fe29a24f701300bf6fb2718110c793</activity>
         <condition>true</condition>
         <condition_default/>
         <condition_type>standard</condition_type>
@@ -964,11 +964,11 @@ answer = true;&#13;
         <short_description/>
         <skip_during_generate>false</skip_during_generate>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>c79a8dd64ff01300bf6fb2718110c71a</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>1dfe29a24f701300bf6fb2718110c793</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
         <activity_definition display_value="Set Values">1ca8d7cf0a0a0b265e9a000c2c08248c</activity_definition>
@@ -986,49 +986,49 @@ answer = true;&#13;
         <pinned_version/>
         <stage/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>4f9a8dd64ff01300bf6fb2718110c71a</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>91fe29a24f701300bf6fb2718110c794</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width/>
-        <workflow_version display_value="Interview Management">4b9a45d64ff01300bf6fb2718110c7f8</workflow_version>
+        <workflow_version display_value="Interview Management">85fe29a24f701300bf6fb2718110c707</workflow_version>
         <x>957</x>
         <y>608</y>
     </wf_activity>
-    <sys_variable_value action="delete_multiple" query="document_key=4f9a8dd64ff01300bf6fb2718110c71a"/>
+    <sys_variable_value action="delete_multiple" query="document_key=91fe29a24f701300bf6fb2718110c794"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>4f9a8dd64ff01300bf6fb2718110c71a</document_key>
+        <document_key>91fe29a24f701300bf6fb2718110c794</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>cf9a8dd64ff01300bf6fb2718110c71a</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>15fe29a24f701300bf6fb2718110c794</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>final_result=Passed^state=Completed^EQ</value>
         <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>4f9a8dd64ff01300bf6fb2718110c71a</document_key>
+        <document_key>91fe29a24f701300bf6fb2718110c794</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>cf9a8dd64ff01300bf6fb2718110c71a</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>15fe29a24f701300bf6fb2718110c794</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>final_result=Passed^state=Completed^EQ</value>
         <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
-        <activity display_value="set final result to passed">4f9a8dd64ff01300bf6fb2718110c71a</activity>
+        <activity display_value="set final result to passed">91fe29a24f701300bf6fb2718110c794</activity>
         <condition>true</condition>
         <condition_default/>
         <condition_type>standard</condition_type>
@@ -1042,11 +1042,11 @@ answer = true;&#13;
         <short_description/>
         <skip_during_generate>false</skip_during_generate>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>079a8dd64ff01300bf6fb2718110c71b</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>19fe29a24f701300bf6fb2718110c794</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
         <activity_definition display_value="Set Values">1ca8d7cf0a0a0b265e9a000c2c08248c</activity_definition>
@@ -1064,49 +1064,49 @@ answer = true;&#13;
         <pinned_version/>
         <stage/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>8b9a8dd64ff01300bf6fb2718110c70e</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>9dfe29a24f701300bf6fb2718110c794</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width/>
-        <workflow_version display_value="Interview Management">4b9a45d64ff01300bf6fb2718110c7f8</workflow_version>
+        <workflow_version display_value="Interview Management">85fe29a24f701300bf6fb2718110c707</workflow_version>
         <x>726</x>
         <y>258</y>
     </wf_activity>
-    <sys_variable_value action="delete_multiple" query="document_key=8b9a8dd64ff01300bf6fb2718110c70e"/>
+    <sys_variable_value action="delete_multiple" query="document_key=9dfe29a24f701300bf6fb2718110c794"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>8b9a8dd64ff01300bf6fb2718110c70e</document_key>
+        <document_key>9dfe29a24f701300bf6fb2718110c794</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>0f9a8dd64ff01300bf6fb2718110c70e</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>11fe29a24f701300bf6fb2718110c795</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>state=Manager interview in progress^manager_interview_date=javascript:gs.nowDateTime()^EQ</value>
         <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>8b9a8dd64ff01300bf6fb2718110c70e</document_key>
+        <document_key>9dfe29a24f701300bf6fb2718110c794</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>0f9a8dd64ff01300bf6fb2718110c70e</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>11fe29a24f701300bf6fb2718110c795</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>state=Manager interview in progress^manager_interview_date=javascript:gs.nowDateTime()^EQ</value>
         <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
-        <activity display_value="Set state to manager interview in progress">8b9a8dd64ff01300bf6fb2718110c70e</activity>
+        <activity display_value="Set state to manager interview in progress">9dfe29a24f701300bf6fb2718110c794</activity>
         <condition>true</condition>
         <condition_default/>
         <condition_type>standard</condition_type>
@@ -1120,11 +1120,11 @@ answer = true;&#13;
         <short_description/>
         <skip_during_generate>false</skip_during_generate>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>439a8dd64ff01300bf6fb2718110c70f</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>15fe29a24f701300bf6fb2718110c795</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
         <activity_definition display_value="Set Values">1ca8d7cf0a0a0b265e9a000c2c08248c</activity_definition>
@@ -1142,49 +1142,49 @@ answer = true;&#13;
         <pinned_version/>
         <stage/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>0b9a8dd64ff01300bf6fb2718110c713</sys_id>
+        <sys_created_on>2018-03-15 07:41:40</sys_created_on>
+        <sys_id>d5fe29a24f701300bf6fb2718110c70d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:40</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width/>
-        <workflow_version display_value="Interview Management">4b9a45d64ff01300bf6fb2718110c7f8</workflow_version>
+        <workflow_version display_value="Interview Management">85fe29a24f701300bf6fb2718110c707</workflow_version>
         <x>112</x>
         <y>224</y>
     </wf_activity>
-    <sys_variable_value action="delete_multiple" query="document_key=0b9a8dd64ff01300bf6fb2718110c713"/>
+    <sys_variable_value action="delete_multiple" query="document_key=d5fe29a24f701300bf6fb2718110c70d"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>0b9a8dd64ff01300bf6fb2718110c713</document_key>
+        <document_key>d5fe29a24f701300bf6fb2718110c70d</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>8b9a8dd64ff01300bf6fb2718110c713</sys_id>
+        <sys_created_on>2018-03-15 07:41:40</sys_created_on>
+        <sys_id>5dfe29a24f701300bf6fb2718110c70d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:40</sys_updated_on>
         <value>state=Phone screen in progress^screen_date=javascript:gs.nowDateTime()^EQ</value>
         <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>0b9a8dd64ff01300bf6fb2718110c713</document_key>
+        <document_key>d5fe29a24f701300bf6fb2718110c70d</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>8b9a8dd64ff01300bf6fb2718110c713</sys_id>
+        <sys_created_on>2018-03-15 07:41:40</sys_created_on>
+        <sys_id>5dfe29a24f701300bf6fb2718110c70d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:40</sys_updated_on>
         <value>state=Phone screen in progress^screen_date=javascript:gs.nowDateTime()^EQ</value>
         <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
-        <activity display_value="Set state to phone screen in progress">0b9a8dd64ff01300bf6fb2718110c713</activity>
+        <activity display_value="Set state to phone screen in progress">d5fe29a24f701300bf6fb2718110c70d</activity>
         <condition>true</condition>
         <condition_default/>
         <condition_type>standard</condition_type>
@@ -1198,11 +1198,11 @@ answer = true;&#13;
         <short_description/>
         <skip_during_generate>false</skip_during_generate>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>cf9a8dd64ff01300bf6fb2718110c713</sys_id>
+        <sys_created_on>2018-03-15 07:41:40</sys_created_on>
+        <sys_id>d1fe29a24f701300bf6fb2718110c70e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:40</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
         <activity_definition display_value="Set Values">1ca8d7cf0a0a0b265e9a000c2c08248c</activity_definition>
@@ -1220,49 +1220,49 @@ answer = true;&#13;
         <pinned_version/>
         <stage/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>c39a8dd64ff01300bf6fb2718110c70c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>95fe29a24f701300bf6fb2718110c796</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:42:33</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width/>
-        <workflow_version display_value="Interview Management">4b9a45d64ff01300bf6fb2718110c7f8</workflow_version>
+        <workflow_version display_value="Interview Management">85fe29a24f701300bf6fb2718110c707</workflow_version>
         <x>313</x>
-        <y>481</y>
+        <y>482</y>
     </wf_activity>
-    <sys_variable_value action="delete_multiple" query="document_key=c39a8dd64ff01300bf6fb2718110c70c"/>
+    <sys_variable_value action="delete_multiple" query="document_key=95fe29a24f701300bf6fb2718110c796"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>c39a8dd64ff01300bf6fb2718110c70c</document_key>
+        <document_key>95fe29a24f701300bf6fb2718110c796</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>479a8dd64ff01300bf6fb2718110c70c</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>19fe29a24f701300bf6fb2718110c796</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>state=Technical interview in progress^first_technical_interview_date=javascript:gs.nowDateTime()^second_technical_interview_date=javascript:gs.nowDateTime()^EQ</value>
         <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>c39a8dd64ff01300bf6fb2718110c70c</document_key>
+        <document_key>95fe29a24f701300bf6fb2718110c796</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>479a8dd64ff01300bf6fb2718110c70c</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>19fe29a24f701300bf6fb2718110c796</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>state=Technical interview in progress^first_technical_interview_date=javascript:gs.nowDateTime()^second_technical_interview_date=javascript:gs.nowDateTime()^EQ</value>
         <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
-        <activity display_value="Set state to technical interview in progress">c39a8dd64ff01300bf6fb2718110c70c</activity>
+        <activity display_value="Set state to technical interview in progress">95fe29a24f701300bf6fb2718110c796</activity>
         <condition>true</condition>
         <condition_default/>
         <condition_type>standard</condition_type>
@@ -1276,11 +1276,11 @@ answer = true;&#13;
         <short_description/>
         <skip_during_generate>false</skip_during_generate>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>8b9a8dd64ff01300bf6fb2718110c70c</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>1dfe29a24f701300bf6fb2718110c796</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
         <activity_definition display_value="Notification">0a6c97790a0a0b2756919eb960284334</activity_definition>
@@ -1298,87 +1298,87 @@ answer = true;&#13;
         <pinned_version/>
         <stage/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>479a8dd64ff01300bf6fb2718110c716</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>59fe29a24f701300bf6fb2718110c790</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width/>
-        <workflow_version display_value="Interview Management">4b9a45d64ff01300bf6fb2718110c7f8</workflow_version>
+        <workflow_version display_value="Interview Management">85fe29a24f701300bf6fb2718110c707</workflow_version>
         <x>484</x>
         <y>145</y>
     </wf_activity>
-    <sys_variable_value action="delete_multiple" query="document_key=479a8dd64ff01300bf6fb2718110c716"/>
+    <sys_variable_value action="delete_multiple" query="document_key=59fe29a24f701300bf6fb2718110c790"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>479a8dd64ff01300bf6fb2718110c716</document_key>
+        <document_key>59fe29a24f701300bf6fb2718110c790</document_key>
         <order>200</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>039a8dd64ff01300bf6fb2718110c717</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>15fe29a24f701300bf6fb2718110c791</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>Please start to do technical interview</value>
         <variable display_value="">c35db2180a0a0ba96248a709d1b6df20</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>479a8dd64ff01300bf6fb2718110c716</document_key>
+        <document_key>59fe29a24f701300bf6fb2718110c790</document_key>
         <order>500</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>4f9a8dd64ff01300bf6fb2718110c716</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>51fe29a24f701300bf6fb2718110c791</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>// Set the variable 'answer' to a comma-separated list of user or group sys_ids that you want the email sent to.&#13;
 </value>
         <variable display_value="">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>479a8dd64ff01300bf6fb2718110c716</document_key>
+        <document_key>59fe29a24f701300bf6fb2718110c790</document_key>
         <order>150</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>879a8dd64ff01300bf6fb2718110c717</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>99fe29a24f701300bf6fb2718110c791</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value/>
         <variable display_value="">ae2121c70a0a0b3459708c9a60cd7312</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>479a8dd64ff01300bf6fb2718110c716</document_key>
+        <document_key>59fe29a24f701300bf6fb2718110c790</document_key>
         <order>400</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>8b9a8dd64ff01300bf6fb2718110c716</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>9dfe29a24f701300bf6fb2718110c790</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>0</value>
         <variable display_value="">6d6816cd0a6a803f0853a8df38007572</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>479a8dd64ff01300bf6fb2718110c716</document_key>
+        <document_key>59fe29a24f701300bf6fb2718110c790</document_key>
         <order>300</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>c39a8dd64ff01300bf6fb2718110c717</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>d5fe29a24f701300bf6fb2718110c791</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>Dear technical interviewers,&#13;
 &#13;
 Please start to do technical interview for the candidate ${name}, and update the result in interview management system: https://dev20825.service-now.com/&#13;
@@ -1389,71 +1389,71 @@ Interview Management TEAM</value>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>479a8dd64ff01300bf6fb2718110c716</document_key>
+        <document_key>59fe29a24f701300bf6fb2718110c790</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>c79a8dd64ff01300bf6fb2718110c716</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>d9fe29a24f701300bf6fb2718110c790</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>${first_technical_interviewer},${second_technical_interviewer}</value>
         <variable display_value="">c35daa890a0a0ba96248a709c32994d6</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>479a8dd64ff01300bf6fb2718110c716</document_key>
+        <document_key>59fe29a24f701300bf6fb2718110c790</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>c79a8dd64ff01300bf6fb2718110c716</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>d9fe29a24f701300bf6fb2718110c790</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>${first_technical_interviewer},${second_technical_interviewer}</value>
         <variable display_value="">c35daa890a0a0ba96248a709c32994d6</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>479a8dd64ff01300bf6fb2718110c716</document_key>
+        <document_key>59fe29a24f701300bf6fb2718110c790</document_key>
         <order>150</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>879a8dd64ff01300bf6fb2718110c717</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>99fe29a24f701300bf6fb2718110c791</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value/>
         <variable display_value="">ae2121c70a0a0b3459708c9a60cd7312</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>479a8dd64ff01300bf6fb2718110c716</document_key>
+        <document_key>59fe29a24f701300bf6fb2718110c790</document_key>
         <order>200</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>039a8dd64ff01300bf6fb2718110c717</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>15fe29a24f701300bf6fb2718110c791</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>Please start to do technical interview</value>
         <variable display_value="">c35db2180a0a0ba96248a709d1b6df20</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>479a8dd64ff01300bf6fb2718110c716</document_key>
+        <document_key>59fe29a24f701300bf6fb2718110c790</document_key>
         <order>300</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>c39a8dd64ff01300bf6fb2718110c717</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>d5fe29a24f701300bf6fb2718110c791</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>Dear technical interviewers,&#13;
 &#13;
 Please start to do technical interview for the candidate ${name}, and update the result in interview management system: https://dev20825.service-now.com/&#13;
@@ -1464,35 +1464,35 @@ Interview Management TEAM</value>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>479a8dd64ff01300bf6fb2718110c716</document_key>
+        <document_key>59fe29a24f701300bf6fb2718110c790</document_key>
         <order>400</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>8b9a8dd64ff01300bf6fb2718110c716</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>9dfe29a24f701300bf6fb2718110c790</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>0</value>
         <variable display_value="">6d6816cd0a6a803f0853a8df38007572</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>479a8dd64ff01300bf6fb2718110c716</document_key>
+        <document_key>59fe29a24f701300bf6fb2718110c790</document_key>
         <order>500</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>4f9a8dd64ff01300bf6fb2718110c716</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>51fe29a24f701300bf6fb2718110c791</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>// Set the variable 'answer' to a comma-separated list of user or group sys_ids that you want the email sent to.&#13;
 </value>
         <variable display_value="">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
-        <activity display_value="Technical interview notification">479a8dd64ff01300bf6fb2718110c716</activity>
+        <activity display_value="Technical interview notification">59fe29a24f701300bf6fb2718110c790</activity>
         <condition>true</condition>
         <condition_default/>
         <condition_type>standard</condition_type>
@@ -1506,11 +1506,11 @@ Interview Management TEAM</value>
         <short_description/>
         <skip_during_generate>false</skip_during_generate>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>cb9a8dd64ff01300bf6fb2718110c717</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>9dfe29a24f701300bf6fb2718110c791</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
         <activity_definition display_value="Wait for condition">d93a02ae0a0a0aa30077abad3fdac035</activity_definition>
@@ -1528,30 +1528,44 @@ Interview Management TEAM</value>
         <pinned_version/>
         <stage/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>4f9a45d64ff01300bf6fb2718110c7f9</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>15fe29a24f701300bf6fb2718110c792</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width/>
-        <workflow_version display_value="Interview Management">4b9a45d64ff01300bf6fb2718110c7f8</workflow_version>
+        <workflow_version display_value="Interview Management">85fe29a24f701300bf6fb2718110c707</workflow_version>
         <x>604</x>
         <y>582</y>
     </wf_activity>
-    <sys_variable_value action="delete_multiple" query="document_key=4f9a45d64ff01300bf6fb2718110c7f9"/>
+    <sys_variable_value action="delete_multiple" query="document_key=15fe29a24f701300bf6fb2718110c792"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>4f9a45d64ff01300bf6fb2718110c7f9</document_key>
+        <document_key>15fe29a24f701300bf6fb2718110c792</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>59fe29a24f701300bf6fb2718110c792</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <value>manager_interview_result=Passed^ORmanager_interview_result=Rejected^manager_interview_commentsISNOTEMPTY^EQ</value>
+        <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>15fe29a24f701300bf6fb2718110c792</document_key>
         <order>2</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>439a45d64ff01300bf6fb2718110c7fa</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>95fe29a24f701300bf6fb2718110c792</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
 answer = true;&#13;
 </value>
@@ -1559,50 +1573,36 @@ answer = true;&#13;
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>4f9a45d64ff01300bf6fb2718110c7f9</document_key>
+        <document_key>15fe29a24f701300bf6fb2718110c792</document_key>
         <order>1</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>8f9a8dd64ff01300bf6fb2718110c70a</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>59fe29a24f701300bf6fb2718110c792</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>manager_interview_result=Passed^ORmanager_interview_result=Rejected^manager_interview_commentsISNOTEMPTY^EQ</value>
         <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>4f9a45d64ff01300bf6fb2718110c7f9</document_key>
-        <order>1</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>8f9a8dd64ff01300bf6fb2718110c70a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <value>manager_interview_result=Passed^ORmanager_interview_result=Rejected^manager_interview_commentsISNOTEMPTY^EQ</value>
-        <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>wf_activity</document>
-        <document_key>4f9a45d64ff01300bf6fb2718110c7f9</document_key>
+        <document_key>15fe29a24f701300bf6fb2718110c792</document_key>
         <order>2</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>439a45d64ff01300bf6fb2718110c7fa</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>95fe29a24f701300bf6fb2718110c792</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
 answer = true;&#13;
 </value>
         <variable display_value="">c35debce0a0a0ba96248a709440cf31a</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
-        <activity display_value="Wait manager interview to complete">4f9a45d64ff01300bf6fb2718110c7f9</activity>
+        <activity display_value="Wait manager interview to complete">15fe29a24f701300bf6fb2718110c792</activity>
         <condition>true</condition>
         <condition_default/>
         <condition_type>standard</condition_type>
@@ -1616,11 +1616,11 @@ answer = true;&#13;
         <short_description/>
         <skip_during_generate>false</skip_during_generate>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>c39a8dd64ff01300bf6fb2718110c70b</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>5dfe29a24f701300bf6fb2718110c792</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
         <activity_definition display_value="Wait for condition">d93a02ae0a0a0aa30077abad3fdac035</activity_definition>
@@ -1638,44 +1638,44 @@ answer = true;&#13;
         <pinned_version/>
         <stage/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>479a8dd64ff01300bf6fb2718110c714</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>d9fe29a24f701300bf6fb2718110c78e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width/>
-        <workflow_version display_value="Interview Management">4b9a45d64ff01300bf6fb2718110c7f8</workflow_version>
+        <workflow_version display_value="Interview Management">85fe29a24f701300bf6fb2718110c707</workflow_version>
         <x>682</x>
         <y>359</y>
     </wf_activity>
-    <sys_variable_value action="delete_multiple" query="document_key=479a8dd64ff01300bf6fb2718110c714"/>
+    <sys_variable_value action="delete_multiple" query="document_key=d9fe29a24f701300bf6fb2718110c78e"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>479a8dd64ff01300bf6fb2718110c714</document_key>
+        <document_key>d9fe29a24f701300bf6fb2718110c78e</document_key>
         <order>1</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>8b9a8dd64ff01300bf6fb2718110c714</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>11fe29a24f701300bf6fb2718110c78f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>managerISNOTEMPTY^EQ</value>
         <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>479a8dd64ff01300bf6fb2718110c714</document_key>
+        <document_key>d9fe29a24f701300bf6fb2718110c78e</document_key>
         <order>2</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>c79a8dd64ff01300bf6fb2718110c714</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>5dfe29a24f701300bf6fb2718110c78e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
 answer = true;&#13;
 </value>
@@ -1683,36 +1683,36 @@ answer = true;&#13;
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>479a8dd64ff01300bf6fb2718110c714</document_key>
+        <document_key>d9fe29a24f701300bf6fb2718110c78e</document_key>
         <order>1</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>8b9a8dd64ff01300bf6fb2718110c714</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>11fe29a24f701300bf6fb2718110c78f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>managerISNOTEMPTY^EQ</value>
         <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>479a8dd64ff01300bf6fb2718110c714</document_key>
+        <document_key>d9fe29a24f701300bf6fb2718110c78e</document_key>
         <order>2</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>c79a8dd64ff01300bf6fb2718110c714</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>5dfe29a24f701300bf6fb2718110c78e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
 answer = true;&#13;
 </value>
         <variable display_value="">c35debce0a0a0ba96248a709440cf31a</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
-        <activity display_value="Wait manager interview to start">479a8dd64ff01300bf6fb2718110c714</activity>
+        <activity display_value="Wait manager interview to start">d9fe29a24f701300bf6fb2718110c78e</activity>
         <condition>true</condition>
         <condition_default/>
         <condition_type>standard</condition_type>
@@ -1726,11 +1726,11 @@ answer = true;&#13;
         <short_description/>
         <skip_during_generate>false</skip_during_generate>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>cf9a8dd64ff01300bf6fb2718110c714</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>15fe29a24f701300bf6fb2718110c78f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
         <activity_definition display_value="Wait for condition">d93a02ae0a0a0aa30077abad3fdac035</activity_definition>
@@ -1748,44 +1748,44 @@ answer = true;&#13;
         <pinned_version/>
         <stage/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>c79a8dd64ff01300bf6fb2718110c71d</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>d9fe29a24f701300bf6fb2718110c799</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width/>
-        <workflow_version display_value="Interview Management">4b9a45d64ff01300bf6fb2718110c7f8</workflow_version>
+        <workflow_version display_value="Interview Management">85fe29a24f701300bf6fb2718110c707</workflow_version>
         <x>85</x>
         <y>452</y>
     </wf_activity>
-    <sys_variable_value action="delete_multiple" query="document_key=c79a8dd64ff01300bf6fb2718110c71d"/>
+    <sys_variable_value action="delete_multiple" query="document_key=d9fe29a24f701300bf6fb2718110c799"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>c79a8dd64ff01300bf6fb2718110c71d</document_key>
+        <document_key>d9fe29a24f701300bf6fb2718110c799</document_key>
         <order>1</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>0f9a8dd64ff01300bf6fb2718110c71d</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>11fe29a24f701300bf6fb2718110c79a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>screen_result=Passed^ORscreen_result=Not sure^screen_commentsISNOTEMPTY^EQ</value>
         <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>c79a8dd64ff01300bf6fb2718110c71d</document_key>
+        <document_key>d9fe29a24f701300bf6fb2718110c799</document_key>
         <order>2</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>4b9a8dd64ff01300bf6fb2718110c71d</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>5dfe29a24f701300bf6fb2718110c799</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
 answer = true;&#13;
 </value>
@@ -1793,36 +1793,36 @@ answer = true;&#13;
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>c79a8dd64ff01300bf6fb2718110c71d</document_key>
+        <document_key>d9fe29a24f701300bf6fb2718110c799</document_key>
         <order>1</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>0f9a8dd64ff01300bf6fb2718110c71d</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>11fe29a24f701300bf6fb2718110c79a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>screen_result=Passed^ORscreen_result=Not sure^screen_commentsISNOTEMPTY^EQ</value>
         <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>c79a8dd64ff01300bf6fb2718110c71d</document_key>
+        <document_key>d9fe29a24f701300bf6fb2718110c799</document_key>
         <order>2</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>4b9a8dd64ff01300bf6fb2718110c71d</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>5dfe29a24f701300bf6fb2718110c799</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
 answer = true;&#13;
 </value>
         <variable display_value="">c35debce0a0a0ba96248a709440cf31a</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
-        <activity display_value="Wait phone screen to complete - result is passed or not sure">c79a8dd64ff01300bf6fb2718110c71d</activity>
+        <activity display_value="Wait phone screen to complete - result is passed or not sure">d9fe29a24f701300bf6fb2718110c799</activity>
         <condition>true</condition>
         <condition_default/>
         <condition_type>standard</condition_type>
@@ -1836,11 +1836,11 @@ answer = true;&#13;
         <short_description/>
         <skip_during_generate>false</skip_during_generate>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>439a8dd64ff01300bf6fb2718110c71e</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>15fe29a24f701300bf6fb2718110c79a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
         <activity_definition display_value="Wait for condition">d93a02ae0a0a0aa30077abad3fdac035</activity_definition>
@@ -1858,44 +1858,44 @@ answer = true;&#13;
         <pinned_version/>
         <stage/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>c79a8dd64ff01300bf6fb2718110c71c</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>1dfe29a24f701300bf6fb2718110c798</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width/>
-        <workflow_version display_value="Interview Management">4b9a45d64ff01300bf6fb2718110c7f8</workflow_version>
+        <workflow_version display_value="Interview Management">85fe29a24f701300bf6fb2718110c707</workflow_version>
         <x>108</x>
         <y>115</y>
     </wf_activity>
-    <sys_variable_value action="delete_multiple" query="document_key=c79a8dd64ff01300bf6fb2718110c71c"/>
+    <sys_variable_value action="delete_multiple" query="document_key=1dfe29a24f701300bf6fb2718110c798"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>c79a8dd64ff01300bf6fb2718110c71c</document_key>
+        <document_key>1dfe29a24f701300bf6fb2718110c798</document_key>
         <order>1</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>0f9a8dd64ff01300bf6fb2718110c71c</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>51fe29a24f701300bf6fb2718110c799</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>screenerISNOTEMPTY^EQ</value>
         <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>c79a8dd64ff01300bf6fb2718110c71c</document_key>
+        <document_key>1dfe29a24f701300bf6fb2718110c798</document_key>
         <order>2</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>4b9a8dd64ff01300bf6fb2718110c71c</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>9dfe29a24f701300bf6fb2718110c798</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
 answer = true;&#13;
 </value>
@@ -1903,36 +1903,36 @@ answer = true;&#13;
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>c79a8dd64ff01300bf6fb2718110c71c</document_key>
+        <document_key>1dfe29a24f701300bf6fb2718110c798</document_key>
         <order>1</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>0f9a8dd64ff01300bf6fb2718110c71c</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>51fe29a24f701300bf6fb2718110c799</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>screenerISNOTEMPTY^EQ</value>
         <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>c79a8dd64ff01300bf6fb2718110c71c</document_key>
+        <document_key>1dfe29a24f701300bf6fb2718110c798</document_key>
         <order>2</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>4b9a8dd64ff01300bf6fb2718110c71c</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>9dfe29a24f701300bf6fb2718110c798</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
 answer = true;&#13;
 </value>
         <variable display_value="">c35debce0a0a0ba96248a709440cf31a</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
-        <activity display_value="wait phone screen to start">c79a8dd64ff01300bf6fb2718110c71c</activity>
+        <activity display_value="wait phone screen to start">1dfe29a24f701300bf6fb2718110c798</activity>
         <condition>true</condition>
         <condition_default/>
         <condition_type>standard</condition_type>
@@ -1946,11 +1946,11 @@ answer = true;&#13;
         <short_description/>
         <skip_during_generate>false</skip_during_generate>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>439a8dd64ff01300bf6fb2718110c71d</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>55fe29a24f701300bf6fb2718110c799</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
         <activity_definition display_value="Wait for condition">d93a02ae0a0a0aa30077abad3fdac035</activity_definition>
@@ -1968,44 +1968,30 @@ answer = true;&#13;
         <pinned_version/>
         <stage/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>479a8dd64ff01300bf6fb2718110c715</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>99fe29a24f701300bf6fb2718110c78f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width/>
-        <workflow_version display_value="Interview Management">4b9a45d64ff01300bf6fb2718110c7f8</workflow_version>
+        <workflow_version display_value="Interview Management">85fe29a24f701300bf6fb2718110c707</workflow_version>
         <x>1220</x>
         <y>210</y>
     </wf_activity>
-    <sys_variable_value action="delete_multiple" query="document_key=479a8dd64ff01300bf6fb2718110c715"/>
+    <sys_variable_value action="delete_multiple" query="document_key=99fe29a24f701300bf6fb2718110c78f"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>479a8dd64ff01300bf6fb2718110c715</document_key>
-        <order>1</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>8b9a8dd64ff01300bf6fb2718110c715</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <value>first_technical_interview_result=Rejected^first_technical_interview_commentsISNOTEMPTY^NQsecond_technical_interview_result=Rejected^second_technical_interview_commentsISNOTEMPTY^EQ</value>
-        <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>wf_activity</document>
-        <document_key>479a8dd64ff01300bf6fb2718110c715</document_key>
+        <document_key>99fe29a24f701300bf6fb2718110c78f</document_key>
         <order>2</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>c79a8dd64ff01300bf6fb2718110c715</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>1dfe29a24f701300bf6fb2718110c78f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
 answer = true;&#13;
 </value>
@@ -2013,36 +1999,50 @@ answer = true;&#13;
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>479a8dd64ff01300bf6fb2718110c715</document_key>
+        <document_key>99fe29a24f701300bf6fb2718110c78f</document_key>
         <order>1</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>8b9a8dd64ff01300bf6fb2718110c715</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>ddfe29a24f701300bf6fb2718110c78f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>first_technical_interview_result=Rejected^first_technical_interview_commentsISNOTEMPTY^NQsecond_technical_interview_result=Rejected^second_technical_interview_commentsISNOTEMPTY^EQ</value>
         <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>479a8dd64ff01300bf6fb2718110c715</document_key>
+        <document_key>99fe29a24f701300bf6fb2718110c78f</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>ddfe29a24f701300bf6fb2718110c78f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <value>first_technical_interview_result=Rejected^first_technical_interview_commentsISNOTEMPTY^NQsecond_technical_interview_result=Rejected^second_technical_interview_commentsISNOTEMPTY^EQ</value>
+        <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>99fe29a24f701300bf6fb2718110c78f</document_key>
         <order>2</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>c79a8dd64ff01300bf6fb2718110c715</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>1dfe29a24f701300bf6fb2718110c78f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
         <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
 answer = true;&#13;
 </value>
         <variable display_value="">c35debce0a0a0ba96248a709440cf31a</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
-        <activity display_value="Wait technical interview rejected">479a8dd64ff01300bf6fb2718110c715</activity>
+        <activity display_value="Wait technical interview rejected">99fe29a24f701300bf6fb2718110c78f</activity>
         <condition>true</condition>
         <condition_default/>
         <condition_type>standard</condition_type>
@@ -2056,11 +2056,11 @@ answer = true;&#13;
         <short_description/>
         <skip_during_generate>false</skip_during_generate>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>cf9a8dd64ff01300bf6fb2718110c715</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>d1fe29a24f701300bf6fb2718110c790</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
         <activity_definition display_value="Wait for condition">d93a02ae0a0a0aa30077abad3fdac035</activity_definition>
@@ -2078,44 +2078,30 @@ answer = true;&#13;
         <pinned_version/>
         <stage/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>039a8dd64ff01300bf6fb2718110c70d</sys_id>
+        <sys_created_on>2018-03-15 07:41:40</sys_created_on>
+        <sys_id>c5fe29a24f701300bf6fb2718110c709</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:40</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width/>
-        <workflow_version display_value="Interview Management">4b9a45d64ff01300bf6fb2718110c7f8</workflow_version>
+        <workflow_version display_value="Interview Management">85fe29a24f701300bf6fb2718110c707</workflow_version>
         <x>733</x>
         <y>65</y>
     </wf_activity>
-    <sys_variable_value action="delete_multiple" query="document_key=039a8dd64ff01300bf6fb2718110c70d"/>
+    <sys_variable_value action="delete_multiple" query="document_key=c5fe29a24f701300bf6fb2718110c709"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>039a8dd64ff01300bf6fb2718110c70d</document_key>
-        <order>1</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>479a8dd64ff01300bf6fb2718110c70d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <value>first_technical_interview_result=Passed^ORfirst_technical_interview_result=Not sure^second_technical_interview_result=Passed^ORsecond_technical_interview_result=Not sure^first_technical_interview_commentsISNOTEMPTY^second_technical_interview_commentsISNOTEMPTY^EQ</value>
-        <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>wf_activity</document>
-        <document_key>039a8dd64ff01300bf6fb2718110c70d</document_key>
+        <document_key>c5fe29a24f701300bf6fb2718110c709</document_key>
         <order>2</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>839a8dd64ff01300bf6fb2718110c70d</sys_id>
+        <sys_created_on>2018-03-15 07:41:40</sys_created_on>
+        <sys_id>01fe29a24f701300bf6fb2718110c70a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:40</sys_updated_on>
         <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
 answer = true;&#13;
 </value>
@@ -2123,36 +2109,50 @@ answer = true;&#13;
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>039a8dd64ff01300bf6fb2718110c70d</document_key>
+        <document_key>c5fe29a24f701300bf6fb2718110c709</document_key>
         <order>1</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>479a8dd64ff01300bf6fb2718110c70d</sys_id>
+        <sys_created_on>2018-03-15 07:41:40</sys_created_on>
+        <sys_id>89fe29a24f701300bf6fb2718110c70a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:40</sys_updated_on>
         <value>first_technical_interview_result=Passed^ORfirst_technical_interview_result=Not sure^second_technical_interview_result=Passed^ORsecond_technical_interview_result=Not sure^first_technical_interview_commentsISNOTEMPTY^second_technical_interview_commentsISNOTEMPTY^EQ</value>
         <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>039a8dd64ff01300bf6fb2718110c70d</document_key>
+        <document_key>c5fe29a24f701300bf6fb2718110c709</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-15 07:41:40</sys_created_on>
+        <sys_id>89fe29a24f701300bf6fb2718110c70a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-15 07:41:40</sys_updated_on>
+        <value>first_technical_interview_result=Passed^ORfirst_technical_interview_result=Not sure^second_technical_interview_result=Passed^ORsecond_technical_interview_result=Not sure^first_technical_interview_commentsISNOTEMPTY^second_technical_interview_commentsISNOTEMPTY^EQ</value>
+        <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>c5fe29a24f701300bf6fb2718110c709</document_key>
         <order>2</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>839a8dd64ff01300bf6fb2718110c70d</sys_id>
+        <sys_created_on>2018-03-15 07:41:40</sys_created_on>
+        <sys_id>01fe29a24f701300bf6fb2718110c70a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:40</sys_updated_on>
         <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
 answer = true;&#13;
 </value>
         <variable display_value="">c35debce0a0a0ba96248a709440cf31a</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
-        <activity display_value="Wait technical interview to complete">039a8dd64ff01300bf6fb2718110c70d</activity>
+        <activity display_value="Wait technical interview to complete">c5fe29a24f701300bf6fb2718110c709</activity>
         <condition>true</condition>
         <condition_default/>
         <condition_type>standard</condition_type>
@@ -2166,11 +2166,11 @@ answer = true;&#13;
         <short_description/>
         <skip_during_generate>false</skip_during_generate>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>8b9a8dd64ff01300bf6fb2718110c70d</sys_id>
+        <sys_created_on>2018-03-15 07:41:40</sys_created_on>
+        <sys_id>01fe29a24f701300bf6fb2718110c70b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:40</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
         <activity_definition display_value="Wait for condition">d93a02ae0a0a0aa30077abad3fdac035</activity_definition>
@@ -2188,44 +2188,44 @@ answer = true;&#13;
         <pinned_version/>
         <stage/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>0b9a8dd64ff01300bf6fb2718110c712</sys_id>
+        <sys_created_on>2018-03-15 07:41:40</sys_created_on>
+        <sys_id>09fe29a24f701300bf6fb2718110c70c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:40</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width/>
-        <workflow_version display_value="Interview Management">4b9a45d64ff01300bf6fb2718110c7f8</workflow_version>
+        <workflow_version display_value="Interview Management">85fe29a24f701300bf6fb2718110c707</workflow_version>
         <x>394</x>
         <y>364</y>
     </wf_activity>
-    <sys_variable_value action="delete_multiple" query="document_key=0b9a8dd64ff01300bf6fb2718110c712"/>
+    <sys_variable_value action="delete_multiple" query="document_key=09fe29a24f701300bf6fb2718110c70c"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>0b9a8dd64ff01300bf6fb2718110c712</document_key>
+        <document_key>09fe29a24f701300bf6fb2718110c70c</document_key>
         <order>1</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>4f9a8dd64ff01300bf6fb2718110c712</sys_id>
+        <sys_created_on>2018-03-15 07:41:40</sys_created_on>
+        <sys_id>4dfe29a24f701300bf6fb2718110c70c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:40</sys_updated_on>
         <value>first_technical_interviewerISNOTEMPTY^second_technical_interviewerISNOTEMPTY^EQ</value>
         <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>0b9a8dd64ff01300bf6fb2718110c712</document_key>
+        <document_key>09fe29a24f701300bf6fb2718110c70c</document_key>
         <order>2</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>8b9a8dd64ff01300bf6fb2718110c712</sys_id>
+        <sys_created_on>2018-03-15 07:41:40</sys_created_on>
+        <sys_id>89fe29a24f701300bf6fb2718110c70c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:40</sys_updated_on>
         <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
 answer = true;&#13;
 </value>
@@ -2233,36 +2233,36 @@ answer = true;&#13;
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>0b9a8dd64ff01300bf6fb2718110c712</document_key>
+        <document_key>09fe29a24f701300bf6fb2718110c70c</document_key>
         <order>1</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>4f9a8dd64ff01300bf6fb2718110c712</sys_id>
+        <sys_created_on>2018-03-15 07:41:40</sys_created_on>
+        <sys_id>4dfe29a24f701300bf6fb2718110c70c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:40</sys_updated_on>
         <value>first_technical_interviewerISNOTEMPTY^second_technical_interviewerISNOTEMPTY^EQ</value>
         <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
-        <document_key>0b9a8dd64ff01300bf6fb2718110c712</document_key>
+        <document_key>09fe29a24f701300bf6fb2718110c70c</document_key>
         <order>2</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>8b9a8dd64ff01300bf6fb2718110c712</sys_id>
+        <sys_created_on>2018-03-15 07:41:40</sys_created_on>
+        <sys_id>89fe29a24f701300bf6fb2718110c70c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:40</sys_updated_on>
         <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
 answer = true;&#13;
 </value>
         <variable display_value="">c35debce0a0a0ba96248a709440cf31a</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
-        <activity display_value="Wait technical interview to start">0b9a8dd64ff01300bf6fb2718110c712</activity>
+        <activity display_value="Wait technical interview to start">09fe29a24f701300bf6fb2718110c70c</activity>
         <condition>true</condition>
         <condition_default/>
         <condition_type>standard</condition_type>
@@ -2276,256 +2276,256 @@ answer = true;&#13;
         <short_description/>
         <skip_during_generate>false</skip_during_generate>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>839a8dd64ff01300bf6fb2718110c713</sys_id>
+        <sys_created_on>2018-03-15 07:41:40</sys_created_on>
+        <sys_id>51fe29a24f701300bf6fb2718110c70d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
+        <sys_updated_on>2018-03-15 07:41:40</sys_updated_on>
     </wf_condition>
     <wf_transition action="INSERT_OR_UPDATE">
-        <condition display_value="Always">439a8dd64ff01300bf6fb2718110c71e</condition>
-        <from display_value="Wait phone screen to complete - result is passed or not sure">c79a8dd64ff01300bf6fb2718110c71d</from>
+        <condition display_value="Always">5dfe29a24f701300bf6fb2718110c792</condition>
+        <from display_value="Wait manager interview to complete">15fe29a24f701300bf6fb2718110c792</from>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>079a8dd64ff01300bf6fb2718110c721</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>19fe29a24f701300bf6fb2718110c79f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <to display_value="Set state to technical interview in progress">c39a8dd64ff01300bf6fb2718110c70c</to>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <to display_value="check final result">91fe29a24f701300bf6fb2718110c797</to>
     </wf_transition>
     <wf_transition action="INSERT_OR_UPDATE">
-        <condition display_value="Always">8b9a8dd64ff01300bf6fb2718110c70d</condition>
-        <from display_value="Wait technical interview to complete">039a8dd64ff01300bf6fb2718110c70d</from>
+        <condition display_value="Always">ddfe29a24f701300bf6fb2718110c711</condition>
+        <from display_value="Phone Screen Notification">99fe29a24f701300bf6fb2718110c710</from>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>079a8dd64ff01300bf6fb2718110c722</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>1dfe29a24f701300bf6fb2718110c79c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <to display_value="Set state to manager interview in progress">8b9a8dd64ff01300bf6fb2718110c70e</to>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <to display_value="Phone screen rejected">d1fe29a24f701300bf6fb2718110c793</to>
     </wf_transition>
     <wf_transition action="INSERT_OR_UPDATE">
-        <condition display_value="Always">079a8dd64ff01300bf6fb2718110c70e</condition>
-        <from display_value="Begin">039a8dd64ff01300bf6fb2718110c70e</from>
+        <condition display_value="Always">51fe29a24f701300bf6fb2718110c70d</condition>
+        <from display_value="Wait technical interview to start">09fe29a24f701300bf6fb2718110c70c</from>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>0b9a8dd64ff01300bf6fb2718110c71f</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>1dfe29a24f701300bf6fb2718110c79e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <to display_value="wait phone screen to start">c79a8dd64ff01300bf6fb2718110c71c</to>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <to display_value="Technical interview notification">59fe29a24f701300bf6fb2718110c790</to>
     </wf_transition>
     <wf_transition action="INSERT_OR_UPDATE">
-        <condition display_value="Always">c79a8dd64ff01300bf6fb2718110c71a</condition>
-        <from display_value="Phone screen rejected">4f9a8dd64ff01300bf6fb2718110c719</from>
+        <condition display_value="Always">9dfe29a24f701300bf6fb2718110c791</condition>
+        <from display_value="Technical interview notification">59fe29a24f701300bf6fb2718110c790</from>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>0b9a8dd64ff01300bf6fb2718110c720</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>55fe29a24f701300bf6fb2718110c79d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <to display_value="">8b9a8dd64ff01300bf6fb2718110c71b</to>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <to display_value="Wait technical interview to complete">c5fe29a24f701300bf6fb2718110c709</to>
     </wf_transition>
     <wf_transition action="INSERT_OR_UPDATE">
-        <condition display_value="Always">cb9a8dd64ff01300bf6fb2718110c717</condition>
-        <from display_value="Technical interview notification">479a8dd64ff01300bf6fb2718110c716</from>
+        <condition display_value="Always">15fe29a24f701300bf6fb2718110c795</condition>
+        <from display_value="Set state to manager interview in progress">9dfe29a24f701300bf6fb2718110c794</from>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>0f9a8dd64ff01300bf6fb2718110c721</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>55fe29a24f701300bf6fb2718110c79f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <to display_value="Wait technical interview to complete">039a8dd64ff01300bf6fb2718110c70d</to>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <to display_value="Wait manager interview to start">d9fe29a24f701300bf6fb2718110c78e</to>
     </wf_transition>
     <wf_transition action="INSERT_OR_UPDATE">
-        <condition display_value="Always">079a8dd64ff01300bf6fb2718110c71b</condition>
-        <from display_value="set final result to passed">4f9a8dd64ff01300bf6fb2718110c71a</from>
+        <condition display_value="Always">d1fe29a24f701300bf6fb2718110c70e</condition>
+        <from display_value="Set state to phone screen in progress">d5fe29a24f701300bf6fb2718110c70d</from>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>0f9a8dd64ff01300bf6fb2718110c722</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>59fe29a24f701300bf6fb2718110c79e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <to display_value="End">cb9a8dd64ff01300bf6fb2718110c70b</to>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <to display_value="Phone Screen Notification">99fe29a24f701300bf6fb2718110c710</to>
     </wf_transition>
     <wf_transition action="INSERT_OR_UPDATE">
-        <condition display_value="Always">839a8dd64ff01300bf6fb2718110c712</condition>
-        <from display_value="Manager interview notification">0f9a8dd64ff01300bf6fb2718110c710</from>
+        <condition display_value="No">15fe29a24f701300bf6fb2718110c798</condition>
+        <from display_value="check final result">91fe29a24f701300bf6fb2718110c797</from>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>439a8dd64ff01300bf6fb2718110c721</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>5dfe29a24f701300bf6fb2718110c79d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <to display_value="Wait manager interview to complete">4f9a45d64ff01300bf6fb2718110c7f9</to>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <to display_value="">99fe29a24f701300bf6fb2718110c795</to>
     </wf_transition>
     <wf_transition action="INSERT_OR_UPDATE">
-        <condition display_value="No">079a8dd64ff01300bf6fb2718110c710</condition>
-        <from display_value="check final result">c79a8dd64ff01300bf6fb2718110c70f</from>
+        <condition display_value="Always">19fe29a24f701300bf6fb2718110c794</condition>
+        <from display_value="set final result to passed">91fe29a24f701300bf6fb2718110c794</from>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>439a8dd64ff01300bf6fb2718110c722</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>91fe29a24f701300bf6fb2718110c79d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <to display_value="">8b9a8dd64ff01300bf6fb2718110c71b</to>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <to display_value="End">99fe29a24f701300bf6fb2718110c79a</to>
     </wf_transition>
     <wf_transition action="INSERT_OR_UPDATE">
-        <condition display_value="Always">cf9a8dd64ff01300bf6fb2718110c713</condition>
-        <from display_value="Set state to phone screen in progress">0b9a8dd64ff01300bf6fb2718110c713</from>
+        <condition display_value="Always">d1fe29a24f701300bf6fb2718110c790</condition>
+        <from display_value="Wait technical interview rejected">99fe29a24f701300bf6fb2718110c78f</from>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>479a8dd64ff01300bf6fb2718110c71f</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>91fe29a24f701300bf6fb2718110c79e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <to display_value="Phone Screen Notification">439a8dd64ff01300bf6fb2718110c718</to>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <to display_value="">99fe29a24f701300bf6fb2718110c795</to>
     </wf_transition>
     <wf_transition action="INSERT_OR_UPDATE">
-        <condition display_value="Always">8b9a8dd64ff01300bf6fb2718110c70c</condition>
-        <from display_value="Set state to technical interview in progress">c39a8dd64ff01300bf6fb2718110c70c</from>
+        <condition display_value="Always">15fe29a24f701300bf6fb2718110c710</condition>
+        <from display_value="Manager interview notification">59fe29a24f701300bf6fb2718110c70e</from>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>479a8dd64ff01300bf6fb2718110c720</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>91fe29a24f701300bf6fb2718110c79f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <to display_value="Wait technical interview to start">0b9a8dd64ff01300bf6fb2718110c712</to>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <to display_value="Wait manager interview to complete">15fe29a24f701300bf6fb2718110c792</to>
     </wf_transition>
     <wf_transition action="INSERT_OR_UPDATE">
-        <condition display_value="Always">c79a8dd64ff01300bf6fb2718110c719</condition>
-        <from display_value="Phone Screen Notification">439a8dd64ff01300bf6fb2718110c718</from>
+        <condition display_value="Always">81fe29a24f701300bf6fb2718110c70c</condition>
+        <from display_value="Begin">49fe29a24f701300bf6fb2718110c70b</from>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>4b9a8dd64ff01300bf6fb2718110c722</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>95fe29a24f701300bf6fb2718110c79e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <to display_value="Wait phone screen to complete - result is passed or not sure">c79a8dd64ff01300bf6fb2718110c71d</to>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <to display_value="wait phone screen to start">1dfe29a24f701300bf6fb2718110c798</to>
     </wf_transition>
     <wf_transition action="INSERT_OR_UPDATE">
-        <condition display_value="Always">cf9a8dd64ff01300bf6fb2718110c714</condition>
-        <from display_value="Wait manager interview to start">479a8dd64ff01300bf6fb2718110c714</from>
+        <condition display_value="Always">ddfe29a24f701300bf6fb2718110c711</condition>
+        <from display_value="Phone Screen Notification">99fe29a24f701300bf6fb2718110c710</from>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>839a8dd64ff01300bf6fb2718110c71f</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>99fe29a24f701300bf6fb2718110c79c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <to display_value="Manager interview notification">0f9a8dd64ff01300bf6fb2718110c710</to>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <to display_value="Wait phone screen to complete - result is passed or not sure">d9fe29a24f701300bf6fb2718110c799</to>
     </wf_transition>
     <wf_transition action="INSERT_OR_UPDATE">
-        <condition display_value="Always">439a8dd64ff01300bf6fb2718110c71c</condition>
-        <from display_value="">8b9a8dd64ff01300bf6fb2718110c71b</from>
+        <condition display_value="Always">15fe29a24f701300bf6fb2718110c78f</condition>
+        <from display_value="Wait manager interview to start">d9fe29a24f701300bf6fb2718110c78e</from>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>839a8dd64ff01300bf6fb2718110c720</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>99fe29a24f701300bf6fb2718110c79d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <to display_value="End">cb9a8dd64ff01300bf6fb2718110c70b</to>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <to display_value="Manager interview notification">59fe29a24f701300bf6fb2718110c70e</to>
     </wf_transition>
     <wf_transition action="INSERT_OR_UPDATE">
-        <condition display_value="Always">cb9a8dd64ff01300bf6fb2718110c717</condition>
-        <from display_value="Technical interview notification">479a8dd64ff01300bf6fb2718110c716</from>
+        <condition display_value="Always">1dfe29a24f701300bf6fb2718110c793</condition>
+        <from display_value="Phone screen rejected">d1fe29a24f701300bf6fb2718110c793</from>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>8b9a8dd64ff01300bf6fb2718110c721</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>9dfe29a24f701300bf6fb2718110c79f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <to display_value="Wait technical interview rejected">479a8dd64ff01300bf6fb2718110c715</to>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <to display_value="">99fe29a24f701300bf6fb2718110c795</to>
     </wf_transition>
     <wf_transition action="INSERT_OR_UPDATE">
-        <condition display_value="Always">839a8dd64ff01300bf6fb2718110c713</condition>
-        <from display_value="Wait technical interview to start">0b9a8dd64ff01300bf6fb2718110c712</from>
+        <condition display_value="Always">1dfe29a24f701300bf6fb2718110c796</condition>
+        <from display_value="Set state to technical interview in progress">95fe29a24f701300bf6fb2718110c796</from>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>8f9a8dd64ff01300bf6fb2718110c720</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>d1fe29a24f701300bf6fb2718110c79c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <to display_value="Technical interview notification">479a8dd64ff01300bf6fb2718110c716</to>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <to display_value="Wait technical interview to start">09fe29a24f701300bf6fb2718110c70c</to>
     </wf_transition>
     <wf_transition action="INSERT_OR_UPDATE">
-        <condition display_value="Always">c39a8dd64ff01300bf6fb2718110c70b</condition>
-        <from display_value="Wait manager interview to complete">4f9a45d64ff01300bf6fb2718110c7f9</from>
+        <condition display_value="Always">55fe29a24f701300bf6fb2718110c799</condition>
+        <from display_value="wait phone screen to start">1dfe29a24f701300bf6fb2718110c798</from>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>c79a8dd64ff01300bf6fb2718110c721</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>d5fe29a24f701300bf6fb2718110c79c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <to display_value="check final result">c79a8dd64ff01300bf6fb2718110c70f</to>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <to display_value="Set state to phone screen in progress">d5fe29a24f701300bf6fb2718110c70d</to>
     </wf_transition>
     <wf_transition action="INSERT_OR_UPDATE">
-        <condition display_value="Always">c79a8dd64ff01300bf6fb2718110c719</condition>
-        <from display_value="Phone Screen Notification">439a8dd64ff01300bf6fb2718110c718</from>
+        <condition display_value="Always">9dfe29a24f701300bf6fb2718110c791</condition>
+        <from display_value="Technical interview notification">59fe29a24f701300bf6fb2718110c790</from>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>c79a8dd64ff01300bf6fb2718110c722</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>d5fe29a24f701300bf6fb2718110c79d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <to display_value="Phone screen rejected">4f9a8dd64ff01300bf6fb2718110c719</to>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <to display_value="Wait technical interview rejected">99fe29a24f701300bf6fb2718110c78f</to>
     </wf_transition>
     <wf_transition action="INSERT_OR_UPDATE">
-        <condition display_value="Always">439a8dd64ff01300bf6fb2718110c71d</condition>
-        <from display_value="wait phone screen to start">c79a8dd64ff01300bf6fb2718110c71c</from>
+        <condition display_value="Always">11fe29a24f701300bf6fb2718110c796</condition>
+        <from display_value="">99fe29a24f701300bf6fb2718110c795</from>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>cb9a8dd64ff01300bf6fb2718110c71f</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>d9fe29a24f701300bf6fb2718110c79f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <to display_value="Set state to phone screen in progress">0b9a8dd64ff01300bf6fb2718110c713</to>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <to display_value="End">99fe29a24f701300bf6fb2718110c79a</to>
     </wf_transition>
     <wf_transition action="INSERT_OR_UPDATE">
-        <condition display_value="Always">cf9a8dd64ff01300bf6fb2718110c715</condition>
-        <from display_value="Wait technical interview rejected">479a8dd64ff01300bf6fb2718110c715</from>
+        <condition display_value="Always">15fe29a24f701300bf6fb2718110c79a</condition>
+        <from display_value="Wait phone screen to complete - result is passed or not sure">d9fe29a24f701300bf6fb2718110c799</from>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>cb9a8dd64ff01300bf6fb2718110c720</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>ddfe29a24f701300bf6fb2718110c79c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <to display_value="">8b9a8dd64ff01300bf6fb2718110c71b</to>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <to display_value="Set state to technical interview in progress">95fe29a24f701300bf6fb2718110c796</to>
     </wf_transition>
     <wf_transition action="INSERT_OR_UPDATE">
-        <condition display_value="Always">439a8dd64ff01300bf6fb2718110c70f</condition>
-        <from display_value="Set state to manager interview in progress">8b9a8dd64ff01300bf6fb2718110c70e</from>
+        <condition display_value="Yes">95fe29a24f701300bf6fb2718110c798</condition>
+        <from display_value="check final result">91fe29a24f701300bf6fb2718110c797</from>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>cf9a8dd64ff01300bf6fb2718110c71f</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>ddfe29a24f701300bf6fb2718110c79d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <to display_value="Wait manager interview to start">479a8dd64ff01300bf6fb2718110c714</to>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <to display_value="set final result to passed">91fe29a24f701300bf6fb2718110c794</to>
     </wf_transition>
     <wf_transition action="INSERT_OR_UPDATE">
-        <condition display_value="Yes">879a8dd64ff01300bf6fb2718110c710</condition>
-        <from display_value="check final result">c79a8dd64ff01300bf6fb2718110c70f</from>
+        <condition display_value="Always">01fe29a24f701300bf6fb2718110c70b</condition>
+        <from display_value="Wait technical interview to complete">c5fe29a24f701300bf6fb2718110c709</from>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>cf9a8dd64ff01300bf6fb2718110c721</sys_id>
+        <sys_created_on>2018-03-15 07:41:41</sys_created_on>
+        <sys_id>ddfe29a24f701300bf6fb2718110c79e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <to display_value="set final result to passed">4f9a8dd64ff01300bf6fb2718110c71a</to>
+        <sys_updated_on>2018-03-15 07:41:41</sys_updated_on>
+        <to display_value="Set state to manager interview in progress">9dfe29a24f701300bf6fb2718110c794</to>
     </wf_transition>
     <wf_estimated_runtime_config action="INSERT_OR_UPDATE">
         <estimated_run_time/>
         <no_of_data_points>1</no_of_data_points>
         <percentage_threshold_ert>20</percentage_threshold_ert>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-14 10:24:23</sys_created_on>
-        <sys_id>cb9a45d64ff01300bf6fb2718110c7f8</sys_id>
+        <sys_created_on>2018-03-15 07:41:40</sys_created_on>
+        <sys_id>49fe29a24f701300bf6fb2718110c707</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 10:24:23</sys_updated_on>
-        <workflow_version display_value="Interview Management">4b9a45d64ff01300bf6fb2718110c7f8</workflow_version>
+        <sys_updated_on>2018-03-15 07:41:40</sys_updated_on>
+        <workflow_version display_value="Interview Management">85fe29a24f701300bf6fb2718110c707</workflow_version>
     </wf_estimated_runtime_config>
-    <wf_workflow_version action="update_multiple" query="workflow=54d57ffd4fb01300bf6fb2718110c7f3^sys_id!=4b9a45d64ff01300bf6fb2718110c7f8">
+    <wf_workflow_version action="update_multiple" query="workflow=54d57ffd4fb01300bf6fb2718110c7f3^sys_id!=85fe29a24f701300bf6fb2718110c707">
         <published>false</published>
     </wf_workflow_version>
 </record_update>

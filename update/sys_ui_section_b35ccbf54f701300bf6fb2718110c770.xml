@@ -4,11 +4,11 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-14 10:47:22</sys_created_on>
-            <sys_id>73dfc99a4ff01300bf6fb2718110c7bd</sys_id>
+            <sys_created_on>2018-03-15 08:18:22</sys_created_on>
+            <sys_id>ba57f96a4f701300bf6fb2718110c702</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-14 10:47:22</sys_updated_on>
+            <sys_updated_on>2018-03-15 08:18:22</sys_updated_on>
             <text>Interview process will not continue until you fill both result and comments.</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
@@ -16,13 +16,13 @@
             <element>manager</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-14 10:47:22</sys_created_on>
-            <sys_id>37dfc99a4ff01300bf6fb2718110c7bd</sys_id>
+            <sys_created_on>2018-03-15 08:18:22</sys_created_on>
+            <sys_id>7e57f96a4f701300bf6fb2718110c702</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Manager Interview" display_value="Manager Interview" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">b35ccbf54f701300bf6fb2718110c770</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-14 10:47:22</sys_updated_on>
+            <sys_updated_on>2018-03-15 08:18:22</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -30,27 +30,27 @@
             <element>manager_interview_date</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-14 10:47:22</sys_created_on>
-            <sys_id>b7dfc99a4ff01300bf6fb2718110c7bd</sys_id>
+            <sys_created_on>2018-03-15 08:18:22</sys_created_on>
+            <sys_id>fe57f96a4f701300bf6fb2718110c702</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Manager Interview" display_value="Manager Interview" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">b35ccbf54f701300bf6fb2718110c770</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-14 10:47:22</sys_updated_on>
+            <sys_updated_on>2018-03-15 08:18:22</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>73dfc99a4ff01300bf6fb2718110c7bd</element>
+            <element>ba57f96a4f701300bf6fb2718110c702</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-14 10:47:22</sys_created_on>
-            <sys_id>3bdfc99a4ff01300bf6fb2718110c7bd</sys_id>
+            <sys_created_on>2018-03-15 08:18:22</sys_created_on>
+            <sys_id>7257f96a4f701300bf6fb2718110c703</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Manager Interview" display_value="Manager Interview" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">b35ccbf54f701300bf6fb2718110c770</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-14 10:47:22</sys_updated_on>
+            <sys_updated_on>2018-03-15 08:18:22</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -58,13 +58,13 @@
             <element>manager_interview_result</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-14 10:47:22</sys_created_on>
-            <sys_id>bbdfc99a4ff01300bf6fb2718110c7bd</sys_id>
+            <sys_created_on>2018-03-15 08:18:22</sys_created_on>
+            <sys_id>f257f96a4f701300bf6fb2718110c703</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Manager Interview" display_value="Manager Interview" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">b35ccbf54f701300bf6fb2718110c770</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-14 10:47:22</sys_updated_on>
+            <sys_updated_on>2018-03-15 08:18:22</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -72,13 +72,13 @@
             <element>manager_interview_comments</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-14 10:47:22</sys_created_on>
-            <sys_id>3fdfc99a4ff01300bf6fb2718110c7bd</sys_id>
+            <sys_created_on>2018-03-15 08:18:22</sys_created_on>
+            <sys_id>7657f96a4f701300bf6fb2718110c703</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Manager Interview" display_value="Manager Interview" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">b35ccbf54f701300bf6fb2718110c770</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-14 10:47:22</sys_updated_on>
+            <sys_updated_on>2018-03-15 08:18:22</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

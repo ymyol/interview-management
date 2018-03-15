@@ -4,11 +4,11 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-14 10:47:22</sys_created_on>
-            <sys_id>6bdfc99a4ff01300bf6fb2718110c7a5</sys_id>
+            <sys_created_on>2018-03-15 08:18:21</sys_created_on>
+            <sys_id>1257b96a4f701300bf6fb2718110c7a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-14 10:47:22</sys_updated_on>
+            <sys_updated_on>2018-03-15 08:18:21</sys_updated_on>
             <text>Interview process will not continue until you fill both result and comments.</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
@@ -16,13 +16,13 @@
             <element>screener</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-14 10:47:22</sys_created_on>
-            <sys_id>2fdfc99a4ff01300bf6fb2718110c7a5</sys_id>
+            <sys_created_on>2018-03-15 08:18:21</sys_created_on>
+            <sys_id>d257b96a4f701300bf6fb2718110c7a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Phone Screen" display_value="Phone Screen" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">b35ccbf54f701300bf6fb2718110c76f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-14 10:47:22</sys_updated_on>
+            <sys_updated_on>2018-03-15 08:18:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -30,27 +30,27 @@
             <element>screen_date</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-14 10:47:22</sys_created_on>
-            <sys_id>afdfc99a4ff01300bf6fb2718110c7a5</sys_id>
+            <sys_created_on>2018-03-15 08:18:21</sys_created_on>
+            <sys_id>5657b96a4f701300bf6fb2718110c7a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Phone Screen" display_value="Phone Screen" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">b35ccbf54f701300bf6fb2718110c76f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-14 10:47:22</sys_updated_on>
+            <sys_updated_on>2018-03-15 08:18:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>6bdfc99a4ff01300bf6fb2718110c7a5</element>
+            <element>1257b96a4f701300bf6fb2718110c7a4</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-14 10:47:22</sys_created_on>
-            <sys_id>23dfc99a4ff01300bf6fb2718110c7a6</sys_id>
+            <sys_created_on>2018-03-15 08:18:21</sys_created_on>
+            <sys_id>d657b96a4f701300bf6fb2718110c7a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Phone Screen" display_value="Phone Screen" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">b35ccbf54f701300bf6fb2718110c76f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-14 10:47:22</sys_updated_on>
+            <sys_updated_on>2018-03-15 08:18:21</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -58,13 +58,13 @@
             <element>screen_result</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-14 10:47:22</sys_created_on>
-            <sys_id>a3dfc99a4ff01300bf6fb2718110c7a6</sys_id>
+            <sys_created_on>2018-03-15 08:18:21</sys_created_on>
+            <sys_id>5a57b96a4f701300bf6fb2718110c7a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Phone Screen" display_value="Phone Screen" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">b35ccbf54f701300bf6fb2718110c76f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-14 10:47:22</sys_updated_on>
+            <sys_updated_on>2018-03-15 08:18:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -72,13 +72,13 @@
             <element>screen_comments</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-14 10:47:22</sys_created_on>
-            <sys_id>27dfc99a4ff01300bf6fb2718110c7a6</sys_id>
+            <sys_created_on>2018-03-15 08:18:21</sys_created_on>
+            <sys_id>da57b96a4f701300bf6fb2718110c7a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Phone Screen" display_value="Phone Screen" name="x_149783_interview_interview_management" sys_domain="global" view="bb5ccbf54f701300bf6fb2718110c76a">b35ccbf54f701300bf6fb2718110c76f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-14 10:47:22</sys_updated_on>
+            <sys_updated_on>2018-03-15 08:18:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
